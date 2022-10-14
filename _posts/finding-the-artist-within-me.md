@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 2'
-date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
+title: 'Finding the Artist within me'
+date: 2021-12-08
+permalink: /posts/2021/12/Finding-the-Artist-within-me/
 tags:
   - cool posts
   - category1
