@@ -1,6 +1,6 @@
 ---
 title: 'Finding the Artist within me'
-date: 2021-12-08
+date: 2022-01-01
 permalink: /posts/2021/12/Finding-the-Artist-within-me/
 tags:
   - cool posts
