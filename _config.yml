@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          : #"ehhjuLCC7CbWyW_DGKj2gQ/UCehhjuLCC7CbWyW_DGKj2gQ"
   wikipedia        :
-  cv                 :"https://millendroy.github.io/files/Millend's_Resume.pdf"
+  cv               : "https://millendroy.github.io/files/Millend's_Resume.pdf"
 
 # Reading Files
 include:
@@ -266,7 +266,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-remote-theme
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # mimic GitHub Pages with --safe
