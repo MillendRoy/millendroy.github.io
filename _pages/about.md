@@ -42,9 +42,9 @@ Outside of research, I like playing cricket, table tennis, and pool. Playing tab
 - December 2021 : Delivering a *[TEM Talk]()* on Smart Grid Utilities, Technology and Empowerment, internal to Microsoft Research.
 - December 2021 : *Acceptance Notification* for "Reliable Energy Consumption Modeling for an Electric Vehicle Fleet" *in ACM COMPASS'22*, my first paper from MSR.
 - September 2021 : Reliable Energy Consumption Modeling for an Electric Vehicle Fleet, *under review in ACM COMPASS'22*.
-- July 2021: __Joining *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as [SCAI Research Fellow](https://www.microsoft.com/en-us/research/people/t-roymillend/).__
+- __July 2021: Joining *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as [SCAI Research Fellow](https://www.microsoft.com/en-us/research/people/t-roymillend/).__
 - May 2021 : *Presenting paper* titled "A Deep Learning Framework for Enhancing Maritime Coastal Security" in  *IEEE INCET'21*. 
-- May 2021 : __*Graduating from IIT ISM Dhanbad*__ with a Bachelor's Degree in Electrical Engineering.
+- __May 2021 : *Graduating from IIT ISM Dhanbad*__ with a Bachelor's Degree in Electrical Engineering.
 - April 2021 : Acceptance Notification for Masters at University in Tromso (UiT), Norway
 - April 2021 : *Acceptance Notification* for "Deep Learning Framework for Enhancing Maritime Coastal Security" in  *IEEE INCET'21*.   
 - March 2021 : Joining *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as a Research Intern
