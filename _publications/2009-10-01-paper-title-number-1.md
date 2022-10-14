@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Renewable Energy and Demand Forecasting in an Integrated Smart Grid"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/Renewable-Energy-and-Demand-Forecasting-in-an-Integrated-Smart-Grid
+excerpt: 'The paper presents a framework that realistically simulates a microgrid and forecasts renewable energy and load demand. Electricity spot prices are also forecasted and used by the scheduler to optimize the total microgrid cost per day. The energy storage and conventional supplies are coherently scheduled to meet the demand. Forecasting models described here give an excellent insight to choose the appropriate architecture to safeguard grid stability, smooth scheduling, and energy management. Finally, the results help in a better understanding of the functioning of the smart grid system.'
+date: 2021-02-05
+venue: 'IEEE International Conference on Innovations in Energy Management and Renewable Resources (IEMRE), 2021'
+paperurl: 'https://doi.org/10.1109/IEMRE52042.2021.9386524'
+citation: 'V. V. S. Lanka, M. Roy, S. Suman and S. Prajapati, "Renewable Energy and Demand Forecasting in an Integrated Smart Grid," 2021 Innovations in Energy Management and Renewable Resources(52042), 2021, pp. 1-6, doi: 10.1109/IEMRE52042.2021.9386524.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The paper presents a framework that realistically simulates a microgrid and forecasts renewable energy and load demand. Electricity spot prices are also forecasted and used by the scheduler to optimize the total microgrid cost per day. The energy storage and conventional supplies are coherently scheduled to meet the demand. Forecasting models described here give an excellent insight to choose the appropriate architecture to safeguard grid stability, smooth scheduling, and energy management. Finally, the results help in a better understanding of the functioning of the smart grid system.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[View paper here](https://doi.org/10.1109/IEMRE52042.2021.9386524)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: V. V. S. Lanka, M. Roy, S. Suman and S. Prajapati, "Renewable Energy and Demand Forecasting in an Integrated Smart Grid," 2021 Innovations in Energy Management and Renewable Resources(52042), 2021, pp. 1-6, doi: 10.1109/IEMRE52042.2021.9386524.
