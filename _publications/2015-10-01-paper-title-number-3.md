@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 3"
+title: "Reliable Energy Consumption Modeling for an Electric Vehicle Fleet"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
-This paper is about the number 3. The number 4 is left for future work.
+permalink: /publication/Reliable-Energy-Consumption-Modeling-for-an-Electric-Vehicle-Fleet
+excerpt: 'Accurately predicting the energy consumption of an electric vehicle (EV) under real-world circumstances (such as varying road, traffic, weather conditions, etc.) is critical for a number of decisions like range estimation and route planning. A major concern for electric vehicle owners is the uncertain nature of the battery consumption. This results in the “range anxiety” and reluctance from users for mass adoption of EVs, since they are concerned about untimely drainage of battery. Even at the organizational level, a company running a fleet of electric vehicles must understand the battery consumption profiles accurately for tasks such as route and driver planning, battery sizing, maintenance planning, etc.
 
+In this paper, firstly, we highlight the challenges in modelling energy consumption and demonstrate the nature of data which is required to understand the energy consumption of electric vehicles under real-world conditions. Then, through a large and diverse dataset collected over 23,500 hours spanning ≈ 460,000 km with 27 vehicles, we demonstrate our two-stage approach to predict the energy consumption of an EV before the start of the trip. In our energy consumption modelling approach, apart from the primary features recorded directly before the trip, we also construct and predict secondary features through an extensive feature engineering process, both of which are then used to predict the energy consumption. We show that our approach outperforms Deep Learning based modelling for EV energy consumption prediction, and also provides explainable and interpretable models for domain experts. This novel method results in energy consumption modelling with of Mean Absolute Percentage Error (MAPE) on our dataset and significantly outperforms state-of-the-art results in EV energy consumption modeling.'
+date: 2022-07-01
+venue: 'COMPASS '22: ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS)'
+paperurl: 'https://doi.org/10.1145/3530190.3534803'
+citation: 'Millend Roy, Akshay Nambi, Anupam Sobti, Tanuja Ganu, Shivkumar Kalyanaraman, Shankar Akella, Jaya Subha Devi, and S A Sundaresan. 2022. Reliable Energy Consumption Modeling for an Electric Vehicle Fleet. In ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS) (COMPASS '22). Association for Computing Machinery, New York, NY, USA, 29–44. https://doi.org/10.1145/3530190.3534803'
+---
+Accurately predicting the energy consumption of an electric vehicle (EV) under real-world circumstances (such as varying road, traffic, weather conditions, etc.) is critical for a number of decisions like range estimation and route planning. A major concern for electric vehicle owners is the uncertain nature of the battery consumption. This results in the “range anxiety” and reluctance from users for mass adoption of EVs, since they are concerned about untimely drainage of battery. Even at the organizational level, a company running a fleet of electric vehicles must understand the battery consumption profiles accurately for tasks such as route and driver planning, battery sizing, maintenance planning, etc.
+
+In this paper, firstly, we highlight the challenges in modelling energy consumption and demonstrate the nature of data which is required to understand the energy consumption of electric vehicles under real-world conditions. Then, through a large and diverse dataset collected over 23,500 hours spanning ≈ 460,000 km with 27 vehicles, we demonstrate our two-stage approach to predict the energy consumption of an EV before the start of the trip. In our energy consumption modelling approach, apart from the primary features recorded directly before the trip, we also construct and predict secondary features through an extensive feature engineering process, both of which are then used to predict the energy consumption. We show that our approach outperforms Deep Learning based modelling for EV energy consumption prediction, and also provides explainable and interpretable models for domain experts. This novel method results in energy consumption modelling with of Mean Absolute Percentage Error (MAPE) on our dataset and significantly outperforms state-of-the-art results in EV energy consumption modeling.
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Millend Roy, Akshay Nambi, Anupam Sobti, Tanuja Ganu, Shivkumar Kalyanaraman, Shankar Akella, Jaya Subha Devi, and S A Sundaresan. 2022. Reliable Energy Consumption Modeling for an Electric Vehicle Fleet. In ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS) (COMPASS '22). Association for Computing Machinery, New York, NY, USA, 29–44. https://doi.org/10.1145/3530190.3534803
