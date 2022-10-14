@@ -2,7 +2,7 @@
 title: "Reliable Energy Consumption Modeling for an Electric Vehicle Fleet"
 collection: publications
 permalink: /publication/Reliable-Energy-Consumption-Modeling-for-an-Electric-Vehicle-Fleet
-excerpt: 'Accurately predicting the energy consumption of an electric vehicle (EV) under real-world circumstances (such as varying road, traffic, weather conditions, etc.) is critical for a number of decisions like range estimation and route planning. A major concern for electric vehicle owners is the uncertain nature of the battery consumption. This results in the “range anxiety” and reluctance from users for mass adoption of EVs, since they are concerned about untimely drainage of battery. Even at the organizational level, a company running a fleet of electric vehicles must understand the battery consumption profiles accurately for tasks such as route and driver planning, battery sizing, maintenance planning, etc.'
+excerpt: ''
 date: 2022-07-01
 venue: 'COMPASS '22: ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS)'
 paperurl: 'https://doi.org/10.1145/3530190.3534803'
