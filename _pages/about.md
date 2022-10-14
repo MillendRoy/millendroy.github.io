@@ -27,29 +27,29 @@ My research in AI for Social Good until now has tackled various societal impact 
 Please see [here](publications.md) for a list of my recent publications. 
 
 ## What outside work 
-Outside of research, I like playing cricket, table tennis, and pool. Playing table tennis during the respite hours in the MSR office has been a pure source of enjoyment, relaxation and recharging for me to do better work. You can also find some of my articles on my [personal blog]() about the endeavours during my bachelors', where I briefly mention the ups and downs during the exciting four years journey. Besides this, I love painting and sketching during my leisure times. I completed my 5th yr (Sr. Diploma) with Distinction in the subject of Painting in 2012 and was also a part of [Art Freaks](https://www.facebook.com/artfreaks.ism) Core Team at IIT-ISM. Please visit [here](), where I showcase some of my drawings. I, also had a formal training on harmonium, and completed 3rd year with first division in vocal classical music. Although not an active vocalist anymore, I love listening to music whenever free.
+Outside of research, I like playing cricket, table tennis, and pool. Playing table tennis during the respite hours in the MSR office has been a pure source of enjoyment, relaxation and recharging for me to do better work. You can also find some of my articles on my [personal blog]() about the endeavours during my bachelors', where I briefly mention the ups and downs during the exciting four years of journey. Besides this, I love painting and sketching during my leisure times. I completed my 5th yr (Sr. Diploma) with Distinction in the subject of Painting in 2012 and was also a part of [Art Freaks](https://www.facebook.com/artfreaks.ism) Core Team at IIT-ISM. Please visit [here](), where I showcase some of my drawings. I, also had a formal training on harmonium, and completed 3rd year with first division in vocal classical music. Although not an active vocalist, I love listening to music whenever free.
 
 # News
 - October 2022: *EnCortex*: Stochastic Optimization for Renewable Energy sources, *under Patent, CELA review*.
 - October 2022: Machine Learning Based Adaptive Fault Diagnosis considering Hosting Capacity Amendment in Active Distribution Network, *revise and resubmit in Electric Power Systems Research Journal*.
 - September 2022: *EnCortex*: A General, Extensible and Scalable Framework for Decision Management in New-age Energy Systems, *under review in NSDI'23*.
-- August 2022: Convocation: *Recipient of the Silver Medal of IIT ISM Dhanbad for being the second rank holder of the EE batch'21 and in the top five amongst a total batch strength of 1048 students.*
+- August 2022: [Convocation](): *Recipient of the Silver Medal of IIT ISM Dhanbad for being the second rank holder of the EE batch'21 and in the top five amongst a total batch strength of 1048 students.*
 - July 2022: A Data Driven Fault Detection Approach with an Ensemble Classifier based Smart Meter in Modern Distribution System, *under review in Sustainable Energy, Grids and Networks Journal*.
-- July 2022: Extending stint at *Microsoft Research* as [SCAI Research Fellow](https://www.microsoft.com/en-us/research/people/t-roymillend/).
+- July 2022: Extending stint at *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as [SCAI Research Fellow](https://www.microsoft.com/en-us/research/people/t-roymillend/).
 - June 2022: *Presenting paper* titled "Reliable Energy Consumption Modeling for an Electric Vehicle Fleet", *in ACM COMPASS'22*.
-- April 2022: Delivering a *SCAI Technical Talk* on Project Vasudha, internal to Microsoft Research.
-- Februray 2022: Showcasing *TAB'22 demo* on Project Vasudha to the TAB Committee.
-- December 2021 : Delivering a *TEM Talk* on Smart Grid Utilities, Technology and Empowerment, internal to Microsoft Research.
+- April 2022: Delivering a *[SCAI Technical Talk]()* on Project Vasudha, internal to Microsoft Research.
+- Februray 2022: Showcasing *[TAB'22]() demo* on Project Vasudha to the TAB Committee.
+- December 2021 : Delivering a *[TEM Talk]()* on Smart Grid Utilities, Technology and Empowerment, internal to Microsoft Research.
 - December 2021 : *Acceptance Notification* for "Reliable Energy Consumption Modeling for an Electric Vehicle Fleet" *in ACM COMPASS'22*, my first paper from MSR.
 - September 2021 : Reliable Energy Consumption Modeling for an Electric Vehicle Fleet, *under review in ACM COMPASS'22*.
-- July 2021: Joining *Microsoft Research* as [SCAI Research Fellow](https://www.microsoft.com/en-us/research/people/t-roymillend/).
+- July 2021: __Joining *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as [SCAI Research Fellow](https://www.microsoft.com/en-us/research/people/t-roymillend/).__
 - May 2021 : *Presenting paper* titled "A Deep Learning Framework for Enhancing Maritime Coastal Security" in  *IEEE INCET'21*. 
-- May 2021 : *Graduating from IIT ISM Dhanbad* with a Bachelor's Degree in Electrical Engineering.
+- May 2021 : __*Graduating from IIT ISM Dhanbad*__ with a Bachelor's Degree in Electrical Engineering.
 - April 2021 : Acceptance Notification for Masters at University in Tromso (UiT), Norway
 - April 2021 : *Acceptance Notification* for "Deep Learning Framework for Enhancing Maritime Coastal Security" in  *IEEE INCET'21*.   
-- March 2021 : Joining *Microsoft Research* as a Research Intern
+- March 2021 : Joining *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as a Research Intern
 - February 2021 : *Presenting paper* titled “Renewable Energy and Demand Forecasting in an integrated Smart Grid” in *IEEE IEMRE'21*, my first paper.
 - February 2021 : A Deep Learning Framework for Enhancing Maritime Coastal Security, *under review in IEEE INCET'21*.
-- February 2021 : *Asean Indian Hackathon'21* Global Finalist.
-- September 2020 : *Samsung Innovation Awards'20* Finalist
-- August 2020 : Winner of Grand Finale of *Smart Indian Hackathon'20*.
+- February 2021 : *[Asean Indian Hackathon'21]()* Global Finalist.
+- September 2020 : *[Samsung Innovation Awards'20]()* Finalist
+- August 2020 : Winner of Grand Finale of *[Smart Indian Hackathon'20](https://www.linkedin.com/feed/update/urn:li:activity:6696450610167848960/)*.
