@@ -44,7 +44,7 @@ Outside of research, I like playing cricket, table tennis, and pool. Playing tab
 - September 2021 : Reliable Energy Consumption Modeling for an Electric Vehicle Fleet, *under review in ACM COMPASS'22*.
 - __July 2021: Joining *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as [SCAI Research Fellow](https://www.microsoft.com/en-us/research/people/t-roymillend/).__
 - May 2021 : *Presenting paper* titled "A Deep Learning Framework for Enhancing Maritime Coastal Security" in  *IEEE INCET'21*. 
-- __May 2021 : *Graduating from IIT ISM Dhanbad*__ with a Bachelor's Degree in Electrical Engineering.
+- __May 2021 : *Graduating from IIT ISM Dhanbad* with a Bachelor's Degree in Electrical Engineering.__
 - April 2021 : Acceptance Notification for Masters at University in Tromso (UiT), Norway
 - April 2021 : *Acceptance Notification* for "Deep Learning Framework for Enhancing Maritime Coastal Security" in  *IEEE INCET'21*.   
 - March 2021 : Joining *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as a Research Intern
