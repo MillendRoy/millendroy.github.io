@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a SCAI (Societal impact through Cloud and Artificial Intelligence) Research Fellow at Microsoft Research Lab India. Prior to this, I received my Bachelor's Degree in Electrical Engineering from Indian Institute of Technology, Indian School of Mines, Dhanbad (IIT-ISM). Having an insatiable curiosity for Science, especially Physics, persuaded me to choose Electrical Engineering for my under-graduation course. Since then my understanding of the field, gradually grew into admiration.
+Hello! I am a SCAI (Societal impact through Cloud and Artificial Intelligence) Research Fellow at Microsoft Research Lab India. Prior to this, I received my Bachelor's Degree in Electrical Engineering from Indian Institute of Technology, Indian School of Mines, Dhanbad (IIT-ISM). 
 
-# Interests 
+Having an insatiable curiosity for Science, especially Physics, persuaded me to choose Electrical Engineering for my under-graduation course. Since then my understanding of the field, gradually grew into admiration.
+
+Please go over my [CV]() to know more about me.
+
+## Interests 
 My current research interests lie at the intersection of __Energy Systems__ and __Technology for Emerging Markets__ broadly in the areas of AI/ML in power systems, smart grid optimization and reinforcement learning.  
 
 > __*I am currently looking for PhD opportunities to pursue research in a similar field with applications open to renewable integration to smart grids, fault diagnosis in power systems, detecting cyber attacks in critical load systems, improving battery technologies for electric vehicles, autonomous driving, electric traction and climate change.*__
@@ -20,9 +24,8 @@ At Microsoft Research (MSR), I work on Project [Vasudha](https://www.microsoft.c
  
 My research in AI for Social Good until now has tackled various societal impact like [addressing range anxiety]() of electric vehicles' drivers, [enhancing maritime coastal security](), accurately scheduling batteries to [reduce carbon footprints]() of consumers, [benefitting energy providers]() by scheduling their renewable resources, [detecting fault location and type]() in active distribution network. Please see [here]() for a list of my recent publications. 
 
+## What outside work 
 Outside of research, I like playing cricket, table tennis, and pool. Playing table tennis during the respite hours in the MSR office has been a pure source of enjoyment, relaxation and recharging for me to do better work. You can also find some of my articles on my [personal blog]() about the endeavours during my bachelors', where I briefly mention the ups and downs during the exciting four years journey. Besides this, I love painting and sketching during my leisure times. I completed my 5th yr (Sr. Diploma) with Distinction in the subject of Painting in 2012 and was also a part of [Art Freaks](https://www.facebook.com/artfreaks.ism) Core Team at IIT-ISM. Please visit [here](), where I showcase some of my drawings. I, also had a formal training on harmonium, and completed 3rd year with first division in vocal classical music. Although not an active vocalist anymore, I love listening to music whenever free.
-
-Please go over my [CV]() to know more about me.
 
 # News
 - October 2022: *EnCortex*: Stochastic Optimization for Renewable Energy sources, *under Patent, CELA review*.
@@ -48,3 +51,5 @@ Please go over my [CV]() to know more about me.
 - February 2021 : *Asean Indian Hackathon'21* Global Finalist.
 - September 2020 : *Samsung Innovation Awards'20* Finalist
 - August 2020 : Winner of Grand Finale of *Smart Indian Hackathon'20*.
+
+> Although news sheet shows only the good ones, many had their cycles of ups and downs, rejects and acceptances.
