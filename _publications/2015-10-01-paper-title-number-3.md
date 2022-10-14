@@ -3,7 +3,7 @@ title: "Reliable Energy Consumption Modeling for an Electric Vehicle Fleet"
 collection: publications
 permalink: /publication/Reliable-Energy-Consumption-Modeling-for-an-Electric-Vehicle-Fleet
 date: 2022-07-01
-venue: 'COMPASS 22: ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS)'
+venue: 'COMPASS 22: ACM SIGCAS SIGCHI Conference on Computing and Sustainable Societies (COMPASS)'
 paperurl: 'https://doi.org/10.1145/3530190.3534803'
 citation: 'Millend Roy, Akshay Nambi, Anupam Sobti, Tanuja Ganu, Shivkumar Kalyanaraman, Shankar Akella, Jaya Subha Devi, and S A Sundaresan. 2022. Reliable Energy Consumption Modeling for an Electric Vehicle Fleet. In ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS) (COMPASS '22). Association for Computing Machinery, New York, NY, USA, 29–44. https://doi.org/10.1145/3530190.3534803'
 ---
