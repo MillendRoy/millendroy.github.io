@@ -15,10 +15,12 @@ Having an insatiable curiosity for Science, especially Physics, persuaded me to 
 Please go over my [resume](cv.md) to know more about me.
 
 # Interests 🔖
+<font size = "2"> 
 My current research interests lie at the intersection of __Energy Systems__ and __Technology for Emerging Markets__ broadly in the areas of AI/ML in power systems, smart grid optimization and reinforcement learning.  
 
 > __*I am currently looking for PhD opportunities to pursue research in a similar field with applications open to renewable integration to smart grids, fault diagnosis in power systems, detecting cyber attacks in critical load systems, improving battery technologies for electric vehicles, autonomous driving and safe control robotics, electric traction and climate change.*__
-
+</font>
+  
 ## Current and Past Research Works 🔍
 At Microsoft Research (MSR), I work on Project [Vasudha](https://www.microsoft.com/en-us/research/project/vasudha/) under the guidance of [Dr. Akshay Nambi](https://www.microsoft.com/en-us/research/people/akshayn/) and [Tanuja Ganu](https://www.microsoft.com/en-us/research/people/taganu/). My research focuses on applying machine learning for optimization and control in distributed energy resources (DERs) of high-renewable power grids. Specifically, my work explores different Reinforcement Learning techniques, stochastic and traditional discrete optimization algorithms that solves the physics based constraints associated with power systems. Being a SCAI fellow, my vocation also encompasses on transitioning the research work to early-stage deployable solutions for partners of Microsoft, where I collaborate with [Dr. Shivkumar Kalyanaraman's](http://www.shivkumar.org/) team of Azure Energy and Mobility on the same. To know more about my works at MSR, please visit [here](msrwork.md).
  
