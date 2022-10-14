@@ -33,7 +33,7 @@ Outside of research, I like playing cricket, table tennis, and pool. Playing tab
 - October 2022: *EnCortex*: Stochastic Optimization for Renewable Energy sources, *under Patent, CELA review*.
 - October 2022: Machine Learning Based Adaptive Fault Diagnosis considering Hosting Capacity Amendment in Active Distribution Network, *revise and resubmit in Electric Power Systems Research Journal*.
 - September 2022: *EnCortex*: A General, Extensible and Scalable Framework for Decision Management in New-age Energy Systems, *under review in NSDI'23*.
-- August 2022: [Convocation](): *Recipient of the Silver Medal of IIT ISM Dhanbad for being the second rank holder of the EE batch'21 and in the top five amongst a total batch strength of 1048 students.*
+- August 2022: [Convocation](): *Recipient of the Silver Medal :2nd_place_medal: of IIT ISM Dhanbad for being the second rank holder of the EE batch'21 and in the top five amongst a total batch strength of 1048 students.*
 - July 2022: A Data Driven Fault Detection Approach with an Ensemble Classifier based Smart Meter in Modern Distribution System, *under review in Sustainable Energy, Grids and Networks Journal*.
 - July 2022: Extending stint at *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as [SCAI Research Fellow](https://www.microsoft.com/en-us/research/people/t-roymillend/).
 - June 2022: *Presenting paper* titled "Reliable Energy Consumption Modeling for an Electric Vehicle Fleet", *in ACM COMPASS'22*.
