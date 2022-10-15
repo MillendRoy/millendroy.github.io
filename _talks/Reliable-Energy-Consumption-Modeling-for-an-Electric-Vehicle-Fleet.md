@@ -1,7 +1,7 @@
 ---
 title: "ACM COMPASS Proceedings Talk on Reliable Energy Consumption Modeling for an Electric Vehicle Fleet"
 collection: talks
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: /talks/Reliable-Energy-Consumption-Modeling-for-an-Electric-Vehicle-Fleet
 venue: "University of Washington, Seattle"
 date: 2022-06-29
