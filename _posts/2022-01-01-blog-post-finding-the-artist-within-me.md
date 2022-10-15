@@ -1,7 +1,7 @@
 ---
 title: 'Finding the Artist within me'
 date: 2022-01-01
-permalink: /posts/2022/01/Finding-the-Artist-within-me/
+permalink: /posts/2022/01/blog-post-Finding-the-Artist-within-me/
 tags:
   - cool posts
   - category1
