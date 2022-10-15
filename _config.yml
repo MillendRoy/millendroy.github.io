@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  workex:
+    title: /:collection/:path/
+    output: true
 
 
 # Defaults
