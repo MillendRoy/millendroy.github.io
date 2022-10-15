@@ -1,11 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Societal Impact through Cloud and AI technical talk on Project Vasudha"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+permalink: /talks/Vasudha
+venue: "Microsoft Research Lab India"
+date: 2022-04-01
+location: "Bangalore, India"
 ---
 
 [More information here](http://exampleurl.com)
