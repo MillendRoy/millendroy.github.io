@@ -1,7 +1,7 @@
 ---
 title: 'Getting Convocated'
 date: 2022-08-15
-permalink: /posts/2022/08/Getting-Convocated/
+permalink: /posts/2022/08/blog-post-Getting-Convocated/
 tags:
   - cool posts
   - category1
