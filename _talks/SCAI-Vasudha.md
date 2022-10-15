@@ -2,7 +2,7 @@
 title: "Societal Impact through Cloud and AI technical talk on Project Vasudha"
 collection: talks
 type: "Tutorial"
-permalink: /talks/Vasudha
+permalink: /talks/SCAI-Vasudha
 venue: "Microsoft Research Lab India"
 date: 2022-04-01
 location: "Bangalore, India"
