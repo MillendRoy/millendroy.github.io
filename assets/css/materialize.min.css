@@ -269,10 +269,10 @@ h1 {
     box-sizing: border-box;
   }
   *,
-  *:before,
+  /* *:before,
   *:after {
     box-sizing: inherit;
-  }
+  } */
   ul:not(.browser-default) {
     padding-left: 0;
     list-style-type: none;
