@@ -3,7 +3,7 @@ title: "IEMRE Conference Proceedings Talk on Renewable Energy and Demand Forecas
 collection: talks
 type: "Talk"
 permalink: /talks/Renewable-Energy-and-Demand-Forecasting-in-an-Integrated-Smart-Grid
-venue: "UC San Francisco, Department of Testing"
+venue: " Institute of Engineering & Management, Kolkata"
 date: 2021-02-06
 location: "Kolkata, India"
 ---
