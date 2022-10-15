@@ -72,6 +72,11 @@
   .white {
     background-color: #fff !important;
   }
+h1 {
+    font-size: 4.2rem;
+    line-height: 30%;
+    margin: 2.1rem 0 1.68rem 0;
+  }
   .white-text {
     color: #fff !important;
   }
@@ -1944,11 +1949,7 @@
   h6 a {
     font-weight: inherit;
   }
-  h1 {
-    font-size: 4.2rem;
-    line-height: 110%;
-    margin: 2.1rem 0 1.68rem 0;
-  }
+  
   h2 {
     font-size: 3.56rem;
     line-height: 110%;
