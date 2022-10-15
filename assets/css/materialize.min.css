@@ -277,9 +277,9 @@ h1 {
     padding-left: 0;
     list-style-type: none;
   } */
-  ul:not(.browser-default) li {
+/*   ul:not(.browser-default) li {
     list-style-type: none;
-  }
+  } */
   a {
     color: #039be5;
     text-decoration: none;
