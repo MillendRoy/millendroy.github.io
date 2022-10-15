@@ -1,7 +1,7 @@
 ---
 title: 'Fun at MSR'
 date: 2022-06-18
-permalink: /posts/2022/06/Fun-at-MSR/
+permalink: /posts/2022/06/blog-post-Fun-at-MSR/
 tags:
   - cool posts
   - category1
