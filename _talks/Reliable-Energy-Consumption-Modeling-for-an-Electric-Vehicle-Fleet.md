@@ -1,5 +1,5 @@
 ---
-title: "Reliable Energy Consumption Modeling for an Electric Vehicle Fleet"
+title: "ACM COMPASS Proceedings Talk on Reliable Energy Consumption Modeling for an Electric Vehicle Fleet"
 collection: talks
 type: "Talk"
 permalink: /talks/Reliable-Energy-Consumption-Modeling-for-an-Electric-Vehicle-Fleet
