@@ -1,7 +1,7 @@
 ---
 title: 'My Work at MSR'
 date: 2022-07-20
-permalink: /posts/2022/07/My-work-at-MSR/
+permalink: /posts/2022/07/blog-post-My-work-at-MSR/
 tags:
   - cool posts
   - category1
