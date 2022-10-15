@@ -1,7 +1,7 @@
 ---
 title: 'Memories at IIT ISM Dhanbad'
 date: 2021-04-30
-permalink: /posts/2021/04/memories-at-IIT-ISM/
+permalink: /posts/2021/04/blog-post-memories-at-IIT-ISM/
 tags:
   - cool posts
   - category1
