@@ -1,5 +1,5 @@
 ---
-title: "INCET Conference Proceeding talk on A Deep Learning Framework for Enhancing Maritime Coastal Security"
+title: "INCET Conference Proceedings talk on A Deep Learning Framework for Enhancing Maritime Coastal Security"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/A-Deep-Learning-Framework-for-Enhancing-Maritime-Coastal-Security
