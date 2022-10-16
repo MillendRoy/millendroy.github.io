@@ -6,34 +6,6 @@ author_profile: true
 ---
 <link rel="stylesheet" href="{{site.baseurl}}/assets/css/timeline.css"> 
 <div class="container row">
-    <h1> Education </h1>
-    {% assign workex = site.edu | sort : 'date' %}
-    {% for work in workex reversed %}
-    <div class="item">
-        <i class="vertical-line"></i>
-        <h2 class="item-date">{{ work.date | date: '%m/%Y' }}{% if work.enddate %} - {{ work.enddate | date: '%m/%Y' }}{% endif %}</h2>
-        <div class="card-panel">
-            <h3 class="card-title">
-                {{ work.title }}
-            </h3>
-            <p>
-                {{ work.content }}
-            </p>
-        </div>
-    </div>
-    {% endfor %}
-    <div class="last-item">
-        <i class="vertical-line"></i>
-        
-    </div>
-    </div>
-
-
-<br>
-<br>
-
-<div class="container row">
-    <h1> Work Experience </h1>
     {% assign workex = site.workex | sort : 'date' %}
     {% for work in workex reversed %}
     <div class="item">
