@@ -20,14 +20,14 @@ width:100px;
 
 
 <div class='container2'>
-		<div>
-			<img src="../images/ms_logo_cam.png" class='iconDetails'>
-		</div>	
-	<div style='margin-left:120px;'>
-	<span class="emphasized">Research Intern</span>
-  <ul>
-    <li> Worked with Dr. Akshay Nambi and Tanuja Ganu on Project <a href = "https://www.microsoft.com/en-us/research/project/vasudha/">Vasudha</a> under Research Group - Technology for Emerging Markets, recently named <a href ="https://www.microsoft.com/en-us/research/theme/technology-and-empowerment/"> Technology and Empowerment </a>.
-    <li> Working on Reliable Energy Consumption for an electric vehicle fleet.
+  <div>
+    <img src="../images/ms_logo_cam.png" class='iconDetails'>
+  </div>	
+  <div style='margin-left:120px;'>
+    <span class="emphasized">Research Intern</span>
+    <ul>
+      <li> Worked with Dr. Akshay Nambi and Tanuja Ganu on Project <a href = "https://www.microsoft.com/en-us/research/project/vasudha/">Vasudha</a> under Research Group - Technology for Emerging Markets, recently named <a href ="https://www.microsoft.com/en-us/research/theme/technology-and-empowerment/"> Technology and Empowerment </a>.
+      <li> Working on Reliable Energy Consumption for an electric vehicle fleet.
     </ul>
-	</div>
+  </div>
 </div>
