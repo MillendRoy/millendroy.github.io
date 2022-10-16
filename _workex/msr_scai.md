@@ -3,7 +3,7 @@ title: Microsoft Research Lab India, Bangalore
 date: 2021-07-26 00:00:00 -0700
 ---
 <style type="text/css"> 
-.iconDetails {
+.iconmsrscai {
  margin-left:0%;
 float:left; 
 height:45px;
@@ -21,7 +21,7 @@ width:100px;
 
 <div class='container2'>
   <div>
-    <img src="../images/ms_logo_cam.png" class='iconDetails'>
+    <img src="../images/ms_logo_cam.png" class='iconmsrscai'>
   </div>	
   <div style='margin-left:120px;'>
     <span class="emphasized">SCAI Research Fellow as a part of <a href = "https://www.microsoft.com/en-us/research/collaboration/scai/"> SCAI </a> team</span>
