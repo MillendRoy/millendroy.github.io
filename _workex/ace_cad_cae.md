@@ -7,7 +7,7 @@ enddate: 2018-07-29 00:00:00 -0700
 .iconDetails {
  margin-left:0%;
 float:left; 
-height:90px;
+height:110px;
 width:100px;	
 } 
 .container2 {
