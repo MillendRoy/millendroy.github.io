@@ -9,7 +9,7 @@ enddate: 2019-10-29 00:00:00 -0700
 } 
 </style>
 
-<img class="padded" src="../images/Hurrey_ Final Logos2.png" width = 150 height=90 style="margin: 1px 10px 1px 1px;">{: style="float: left"}
+<img class="padded" src="../images/Hurrey_ Final Logos2.png" width = 150 height=50 style="margin: 1px 10px 1px 1px;">{: style="float: left"}
 
 Data Science Intern
 - Build a Recommendation Engine ([Hurr.AI](https://hurreytech.com/)) using Reinforcement Learning (AI Ed and NLTK) to surface the right learning material to the right student at the right time and in the right channel.
