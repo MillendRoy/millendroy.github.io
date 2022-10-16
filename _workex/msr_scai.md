@@ -30,6 +30,3 @@ width:100px;
       <li> Worked on Reliable Energy Consumption for an electric vehicle fleet, <a href = "../_publications/2015-10-01-paper-title-number-3.md"> published </a> in ACM COMPASS'22.
       <li> Worked on Anomaly Detection in Electric Vehicles' Battery Systems.
       <li> Working on EnCortex - A easy-to-use Decision Management Framework for Smart Grid Utilities, <a href = "../_publications/encortex.md">under review</a>. 
-    </ul>
-  </div>
-</div>
