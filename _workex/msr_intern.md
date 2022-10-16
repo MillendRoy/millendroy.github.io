@@ -9,7 +9,7 @@ enddate: 2021-07-21 00:00:00 -0700
 } 
 </style>
 
-<img class="padded" src="../images/ms_logo_cam.png" width = 150 height=90 style="margin: 1px 10px 1px 1px;">{: style="float: left"}
+<img class="padded" src="../images/ms_logo_cam.png" width = 150 height=70 style="margin: 1px 10px 1px 1px;">{: style="float: left"}
 
 Research Intern
 - Worked with Dr. Akshay Nambi and Tanuja Ganu on Project [Vasudha](https://www.microsoft.com/en-us/research/project/vasudha/) under Research Group - Technology for Emerging Markets, recently named [Technology and Empowerment](https://www.microsoft.com/en-us/research/theme/technology-and-empowerment/).
