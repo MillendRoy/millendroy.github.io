@@ -1,7 +1,6 @@
 ---
 title: Microsoft Research Lab India, Bangalore 
-date: 2021-03-01 00:00:00 -0700
-enddate: 2021-07-21 00:00:00 -0700
+date: 2021-07-26 00:00:00 -0700
 ---
 <style type="text/css"> 
 .padded img { 
