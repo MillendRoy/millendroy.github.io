@@ -3,13 +3,28 @@ title: Fiitjee, Durgapur
 date: 2015-02-04 00:00:00 -0700
 enddate: 2017-04-30 00:00:00 -0700
 ---
-<style type="text/css"> 
-.padded img { 
-  padding-right: 6em; 
+	<style type="text/css"> 
+.iconDetails {
+ margin-left:0%;
+float:left; 
+height:40px;
+width:150px;	
 } 
+.container2 {
+	width:100%;
+	height:auto;
+	padding:1%;
+}  
+.emphasized { font-style: italic; }
 </style>
 
-<img class="padded" src="../images/fiitjee_logo.png" width = 150 height=90 style="margin: 1px 10px 1px 1px;">{: style="float: left"}
 
-Preparation for *JEE Mains and JEE Advanced* <br>
-*Physics, Mathematics, Chemistry*
+<div class='container2'>
+  <div>
+    <img src="../images/fiitjee_logo.png" class='iconDetails'>
+  </div>	
+  <div style='margin-left:130px;'>
+    Preparation for <span class="emphasized">JEE Mains and JEE Advanced</span> <br>
+<span class="emphasized">Physics, Mathematics, Chemistry</span>
+   </div>
+</div>
