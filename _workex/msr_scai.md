@@ -4,14 +4,11 @@ date: 2021-03-01 00:00:00 -0700
 enddate: 2021-07-21 00:00:00 -0700
 ---
 <style type="text/css"> 
-.padded img { 
-  padding-right: 6em; 
-}
 .iconDetails {
  margin-left:2%;
 float:left; 
-height:40px;
-width:40px;	
+height:150px;
+width:70px;	
 } 
 .container2 {
 	width:100%;
@@ -33,6 +30,6 @@ width:40px;
     <li> Worked on Reliable Energy Consumption for an electric vehicle fleet, <a href = "../_publications/2015-10-01-paper-title-number-3.md"> published </a> in ACM COMPASS'22.
     <li> Worked on Anomaly Detection in Electric Vehicles' Battery Systems.
     <li> Working on EnCortex - A easy-to-use Decision Management Framework for Smart Grid Utilities, < a href = "../_publications/encortex.md"> under review </a>. 
-  
+		</ul>
 	</div>
 </div>
