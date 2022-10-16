@@ -1,11 +1,17 @@
 ---
-title: Ludwig van Beethoven
-date: 1770-12-15 00:00:00 -0700
-enddate: 1827-03-29 00:00:00 -0700
+title: Indian Institute of Technology (IIT), Indian School of Mines (ISM), Dhanbad
+date: 2017-06-26 00:00:00 -0700
+enddate: 2021-05-03 00:00:00 -0700
 ---
+<style type="text/css"> 
+.padded img { 
+  padding-right: 6em; 
+} 
+</style>
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/200px-Beethoven.jpg){: style="float: left"}
+<img class="padded" src="../images/iit_ism_logo.png" width = 90 height=100 style="margin: 1px 10px 1px 1px;">{: style="float: left"}
 
-Ludwig van Beethoven was a German composer and pianist. A crucial figure in the transition between the Classical and Romantic eras in Western art music, he remains one of the most famous and influential of all composers. His best-known compositions include 9 symphonies, 5 piano concertos, 1 violin concerto, 32 piano sonatas, 16 string quartets, his great Mass the Missa solemnis, and one opera, Fidelio.
+Bachelors of Technology - BTech in Electrical Engineering, <br>
+__Grade:__ *9.51/10* (*Silver Medalist*) <br>
+Activities and societies: ArtFreaks - The Art Club of IIT ISM, Cricket Club IIT ISM <br>
 
-[Source: Wikipedia](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
