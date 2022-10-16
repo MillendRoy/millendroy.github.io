@@ -7,7 +7,7 @@ enddate: 2020-10-29 00:00:00 -0700
 .iconDetails {
  margin-left:0%;
 float:left; 
-height:50px;
+height:40px;
 width:150px;	
 } 
 .container2 {
