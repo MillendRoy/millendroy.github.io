@@ -26,7 +26,7 @@ width:100px;
   <div style='margin-left:120px;'>
     <span class="emphasized">Engineering Design Intern</span>
     <ul>
-      <li> Worked on  Solar Resource Assessment</strong> and <strong>loss analysis</strong> for <a href = "../files/report_VCE.pdf">Annual Energy Production </a> using PVsyst of grid-connected 100KW Solar PV Project in Noida, Uttar Pradesh; as a contract for engineering procurement at Tech-Vardhan Power Private Limited.
+      <li> Worked on  <strong>Solar Resource Assessment</strong> and <strong>loss analysis</strong> for <a href = "../files/report_VCE.pdf">Annual Energy Production </a> using PVsyst of grid-connected 100KW Solar PV Project in Noida, Uttar Pradesh; as a contract for engineering procurement at Tech-Vardhan Power Private Limited.
     </ul>
   </div>
   <br>
