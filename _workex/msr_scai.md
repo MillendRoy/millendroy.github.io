@@ -24,7 +24,7 @@ width:40px;
 
 <div class='container2'>
 		<div>
-			<img src="../images/ms_logo_cam.png" width = 150 height=70 class='iconDetails'>
+			<img src="../images/ms_logo_cam.png" class='iconDetails'>
 		</div>	
 	<div style='margin-left:60px;'>
 	<span class="emphasized">SCAI Research Fellow as a part of <a href = "https://www.microsoft.com/en-us/research/collaboration/scai/"> SCAI </a> team</span>
