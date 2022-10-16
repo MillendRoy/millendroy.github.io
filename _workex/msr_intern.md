@@ -27,7 +27,7 @@ width:100px;
 	<span class="emphasized">Research Intern</span>
   <ul>
     <li> Worked with Dr. Akshay Nambi and Tanuja Ganu on Project <a href = "https://www.microsoft.com/en-us/research/project/vasudha/">Vasudha</a> under Research Group - Technology for Emerging Markets, recently named <a href ="https://www.microsoft.com/en-us/research/theme/technology-and-empowerment/"> Technology and Empowerment </a>.
-    <li> Worked on Reliable Energy Consumption for an electric vehicle fleet, <a href = "../_publications/2015-10-01-paper-title-number-3.md"> published </a> in ACM COMPASS'22.
+    <li> Working on Reliable Energy Consumption for an electric vehicle fleet.
     </ul>
 	</div>
 </div>
