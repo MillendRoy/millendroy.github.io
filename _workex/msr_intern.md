@@ -4,13 +4,30 @@ date: 2021-03-01 00:00:00 -0700
 enddate: 2021-07-21 00:00:00 -0700
 ---
 <style type="text/css"> 
-.padded img { 
-  padding-right: 6em; 
+.iconDetails {
+ margin-left:0%;
+float:left; 
+height:45px;
+width:100px;	
 } 
+.container2 {
+	width:100%;
+	height:auto;
+	padding:1%;
+}  
+.emphasized { font-style: italic; }
 </style>
 
-<img class="padded" src="../images/ms_logo_cam.png" width = 150 height=70 style="margin: 1px 10px 1px 1px;">{: style="float: left"}
 
-Research Intern
-- Worked with Dr. Akshay Nambi and Tanuja Ganu on Project [Vasudha](https://www.microsoft.com/en-us/research/project/vasudha/) under Research Group - Technology for Emerging Markets, recently named [Technology and Empowerment](https://www.microsoft.com/en-us/research/theme/technology-and-empowerment/).
-- Worked on Reliable Energy Consumption for an electric vehicle fleet, [published](../_publications/2015-10-01-paper-title-number-3.md) in ACM COMPASS'22.
+<div class='container2'>
+		<div>
+			<img src="../images/ms_logo_cam.png" class='iconDetails'>
+		</div>	
+	<div style='margin-left:120px;'>
+	<span class="emphasized">Research Intern</span>
+  <ul>
+    <li> Worked with Dr. Akshay Nambi and Tanuja Ganu on Project <a href = "https://www.microsoft.com/en-us/research/project/vasudha/">Vasudha</a> under Research Group - Technology for Emerging Markets, recently named <a href ="https://www.microsoft.com/en-us/research/theme/technology-and-empowerment/"> Technology and Empowerment </a>.
+    <li> Worked on Reliable Energy Consumption for an electric vehicle fleet, <a href = "../_publications/2015-10-01-paper-title-number-3.md"> published </a> in ACM COMPASS'22.
+    </ul>
+	</div>
+</div>
