@@ -124,6 +124,9 @@
       {% if author.resume %}
         <li><a href="{{ author.resume }}"><i class="fa fa-fw fa-file" aria-hidden="true"></i>  Résumé</a></li>
       {% endif %}
+      {% if author.worksite %}
+        <li><a href="{{ author.worksite }}"><i class="fa fa-fw fa-file" aria-hidden="true"></i>workSite</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
