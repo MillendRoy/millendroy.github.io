@@ -28,6 +28,4 @@ width:100px;
     <ul>
       <li> Worked with Dr. Akshay Nambi and Tanuja Ganu on Project <a href = "https://www.microsoft.com/en-us/research/project/vasudha/">Vasudha</a> under Research Group - Technology for Emerging Markets, recently named <a href ="https://www.microsoft.com/en-us/research/theme/technology-and-empowerment/"> Technology and Empowerment </a>.
       <li> Working on Reliable Energy Consumption for an electric vehicle fleet.
-    </ul>
-  </div>
-</div>
+
