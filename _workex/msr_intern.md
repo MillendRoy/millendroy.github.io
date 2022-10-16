@@ -4,7 +4,7 @@ date: 2021-03-01 00:00:00 -0700
 enddate: 2021-07-21 00:00:00 -0700
 ---
 <style type="text/css"> 
-.iconDetails {
+.iconmsrintern {
  margin-left:0%;
 float:left; 
 height:45px;
@@ -21,7 +21,7 @@ width:100px;
 
 <div class='container2'>
   <div>
-    <img src="../images/ms_logo_cam.png" class='iconDetails'>
+    <img src="../images/ms_logo_cam.png" class='iconmsrintern'>
   </div>	
   <div style='margin-left:120px;'>
     <span class="emphasized">Research Intern</span>
