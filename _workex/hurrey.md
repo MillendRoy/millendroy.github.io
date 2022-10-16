@@ -28,7 +28,9 @@ width:150px;
     <ul>
       <li> Build a Recommendation Engine (<a href = "https://hurreytech.com/">Hurr.AI</a>) using Reinforcement Learning (AI Ed and NLTK) to surface the right learning material to the right student at the right time and in the right channel.
       <li> The engine can address to different classrooms. Even peer to peer chats can be benefitted through this utility.
-  <br>
+  
+<br>
+<div class='container2'>	      
 Since, a stealth startup not much can be disclosed, please visit here for the <a href ="../files/1597074420921.pdf">internship completion letter</a> from the Hurrey Tech Ventures Founder. 
 
 
