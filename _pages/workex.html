@@ -6,7 +6,7 @@ author_profile: true
 ---
 <link rel="stylesheet" href="{{site.baseurl}}/assets/css/timeline.css"> 
 <div class="container row">
-    {% assign workex = site.workex | sort: 'date' %}
+    {% assign workex = site.workex | reverse: 'date' %}
     {% for work in workex %}
     <div class="item">
         <i class="vertical-line"></i>
