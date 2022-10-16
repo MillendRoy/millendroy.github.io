@@ -23,7 +23,7 @@ width:150px;
   <div>
     <img src="../images/Hurrey_ Final Logos2.png" class='iconDetails'>
   </div>	
-  <div style='margin-left:160px;'>
+  <div style='margin-left:130px;'>
     <span class="emphasized">Data Science Intern</span>
     <ul>
       <li> Build a Recommendation Engine (<a href = "https://hurreytech.com/">Hurr.AI</a>) using Reinforcement Learning (AI Ed and NLTK) to surface the right learning material to the right student at the right time and in the right channel.
