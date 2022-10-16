@@ -1,7 +1,7 @@
 ---
 title: Hurrey Tech Ventures (R&D), Bangalore 
-date: 2019-05-01 00:00:00 -0700
-enddate: 2019-10-29 00:00:00 -0700
+date: 2020-05-01 00:00:00 -0700
+enddate: 2020-10-29 00:00:00 -0700
 ---
 <style type="text/css"> 
 .padded img { 
