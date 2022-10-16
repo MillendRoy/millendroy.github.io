@@ -4,14 +4,37 @@ date: 2017-06-26 00:00:00 -0700
 enddate: 2021-05-03 00:00:00 -0700
 ---
 <style type="text/css"> 
-.padded img { 
-  padding-right: 6em; 
+.icontails {
+ margin-left:0%;
+float:left; 
+height:100px;
+width:100px;	
 } 
+.container2 {
+	width:100%;
+	height:auto;
+	padding:1%;
+}  
+.emphasized { font-style: italic; }
 </style>
 
-<img class="padded" src="../images/iit_ism_logo.png" width = 90 height=100 style="margin: 1px 10px 1px 1px;">{: style="float: left"}
 
-Bachelors of Technology - BTech in Electrical Engineering, <br>
-__Grade:__ *9.51/10* (*Silver Medalist*) <br>
-Activities and societies: ArtFreaks - The Art Club of IIT ISM, Cricket Club IIT ISM <br>
+<div class='container2'>
+  <div>
+    <img src="../images/iit_ism_logo.png" class='icontails'>
+  </div>	
+  <div style='margin-left:130px;'>
+    <span class="emphasized">Bachelors of Technology - BTech in Electrical Engineering</span>
+    <ul>
+      <li> <strong>Grade:</strong> <span class="emphasized">9.51/10 (Silver Medalist)</span>
+      <li> Activities and societies: 
+        <ul> 
+          <li> ArtFreaks - The Art Club of IIT ISM, 
+          <li> Cricket Club IIT ISM
+        </ul>
+    </ul>
+   </div>
+</div>
+
+
 
