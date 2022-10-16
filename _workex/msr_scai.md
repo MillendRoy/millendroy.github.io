@@ -5,7 +5,7 @@ enddate: 2021-07-21 00:00:00 -0700
 ---
 <style type="text/css"> 
 .iconDetails {
- margin-left:2%;
+ margin-left:0%;
 float:left; 
 height:150px;
 width:70px;	
@@ -23,7 +23,7 @@ width:70px;
 		<div>
 			<img src="../images/ms_logo_cam.png" class='iconDetails'>
 		</div>	
-	<div style='margin-left:60px;'>
+	<div style='margin-left:100px;'>
 	<span class="emphasized">SCAI Research Fellow as a part of <a href = "https://www.microsoft.com/en-us/research/collaboration/scai/"> SCAI </a> team</span>
   <ul>
     <li> Working with Dr. Akshay Nambi and Tanuja Ganu on Project <a href = "https://www.microsoft.com/en-us/research/project/vasudha/">Vasudha</a> under Research Group - Technology for Emerging Markets, recently named <a href ="https://www.microsoft.com/en-us/research/theme/technology-and-empowerment/"> Technology and Empowerment </a>.
