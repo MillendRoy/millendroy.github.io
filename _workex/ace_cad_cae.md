@@ -3,11 +3,6 @@ title: ACE CAD CAE, 3D Modeling and Simulation, Durgapur
 date: 2018-05-01 00:00:00 -0700
 enddate: 2018-07-29 00:00:00 -0700
 ---
----
-title: Vardhan Consulting Engineers, Wattana, Bangkok
-date: 2020-04-01 00:00:00 -0700
-enddate: 2020-05-29 00:00:00 -0700
----
 <style type="text/css"> 
 .iconDetails {
  margin-left:0%;
@@ -29,7 +24,6 @@ width:100px;
 			<img src="../images/ACE_CAD_CAE.jfif" class='iconDetails'>
 		</div>	
 	<div style='margin-left:120px;'>
-	<span class="emphasized">Engineering Design Intern</span>
   <ul>
 <li> Training on Electrical CAD
 <li> Building simulation models with basic electrical engineering theories
