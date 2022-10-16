@@ -4,7 +4,7 @@ date: 2018-05-01 00:00:00 -0700
 enddate: 2018-07-29 00:00:00 -0700
 ---
 <style type="text/css"> 
-.iconDetails {
+.iconetails {
  margin-left:0%;
 float:left; 
 height:110px;
@@ -21,7 +21,7 @@ width:100px;
 
 <div class='container2'>
 		<div>
-			<img src="../images/ACE_CAD_CAE.jfif" class='iconDetails'>
+			<img src="../images/ACE_CAD_CAE.jfif" class='iconetails'>
 		</div>	
 	<div style='margin-left:120px;'>
   <ul>
