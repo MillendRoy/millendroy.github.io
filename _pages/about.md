@@ -12,7 +12,7 @@ Hello! I am a SCAI (Societal impact through Cloud and Artificial Intelligence) R
 
 Having an insatiable curiosity for Science, especially Physics, persuaded me to choose Electrical Engineering for my under-graduation course. Since then my understanding of the field, gradually grew into admiration.
 
-Please go over my [resume](cv.md) to know more about me.
+Please go over my [resume](../files/Millend_Resume.pdf) to know more about me.
 
 # Interests 🔖
 My current research interests lie at the intersection of __Energy Systems__ and __Technology for Emerging Markets__ broadly in the areas of AI/ML in power systems, smart grid optimization and reinforcement learning.  
@@ -27,7 +27,10 @@ My research in AI for Social Good until now has tackled various societal impact 
 Please see [here](publications.md) for a list of my recent publications. 
 
 ## What outside work 🏓 ! 
-Outside of research, I like playing cricket, table tennis, and pool. Playing table tennis during the respite hours in the MSR office has been a pure source of enjoyment, relaxation and recharging for me to do better work. You can also find some of my articles on my [personal blog](year-archive.html) about the endeavours during my [bachelors'](../_posts/memories_at_iit_ism_dhanbad.md), where I briefly mention the ups and downs during the exciting four years of journey. Besides this, I love painting and sketching during my leisure times. I completed my 5th yr (Sr. Diploma) with Distinction in the subject of Painting in 2012 and was also a part of [Art Freaks](https://www.facebook.com/artfreaks.ism) Core Team at IIT-ISM. Please visit [here](../_posts/finding-the-artist-within-me.md), where I showcase some of my drawings. I, also had a formal training on harmonium, and completed 3rd year with first division in vocal classical music. Although not an active vocalist, I love listening to music whenever free.
+Outside of research, I like playing cricket, table tennis, and pool. Playing table tennis during the respite hours in the MSR office has been a pure source of enjoyment, relaxation and recharging for me to do better work. Besides this, I love painting and sketching during my leisure times. I completed my 5th yr (Sr. Diploma) with Distinction in the subject of Painting in 2012 and was also a part of [Art Freaks](https://www.facebook.com/artfreaks.ism) Core Team at IIT-ISM.I, also had a formal training on harmonium, and completed 3rd year with first division in vocal classical music. Although not an active vocalist, I love listening to music whenever free.
+<!-- You can also find some of my articles on my [personal blog](year-archive.html) about the endeavours during my [bachelors'](../_posts/memories_at_iit_ism_dhanbad.md), where I briefly mention the ups and downs during the exciting four years of journey.  -->
+<!-- Please visit [here](../_posts/finding-the-artist-within-me.md), where I showcase some of my drawings.  -->
+
 
 # News 🗞️
 - October 2022: *EnCortex*: Stochastic Optimization for Renewable Energy sources, *under Patent, CELA review*.
