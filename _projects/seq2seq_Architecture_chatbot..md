@@ -1,7 +1,12 @@
 ---
 title: "Seq2Seq Architecture based DL chatbot"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
+date: 2020-01-20
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is a Proof-of-Concept Project on Seq2Seq Neural Architecture.
+- Trained on Movie-lens dataset having conversations between different people by building a Seq2Seq neural architecture.
+- It is trained on 100 epochs with a batch size of 64, and number of layers =3. The encoding and decoding embedding size are of 512 each.
+- Dropout regularization used to remove any kind of overfitting and the losses are optimized using Adam optimizer.
+- All the sentences in a batch, whether they are questions/ answers must have the same length. Hence  'PAD' tokens used.
+
