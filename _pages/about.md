@@ -42,9 +42,9 @@ Also, recently I have started writing blogs (both technical and fun) mostly desc
 - July 2022: A Data Driven Fault Detection Approach with an Ensemble Classifier based Smart Meter in Modern Distribution System, *under review in Sustainable Energy, Grids and Networks Journal*.
 - July 2022: Extending stint at *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as [SCAI Research Fellow](https://www.microsoft.com/en-us/research/people/t-roymillend/).
 - June 2022: *Presenting paper* titled "Reliable Energy Consumption Modeling for an Electric Vehicle Fleet", *in ACM COMPASS'22*.
-- April 2022: Delivering a *[SCAI Technical Talk](../_talks/SCAI-Vasudha.md)* on Project Vasudha, internal to Microsoft Research.
-- Februray 2022: Showcasing *[TAB'22](../_talks/TAB-Vasudha.md) demo* on Project Vasudha to the TAB Committee.
-- December 2021 : Delivering a *[TEM Talk](../_talks/Smart-Grid-Utilities.md)* on Smart Grid Utilities, Technology and Empowerment, internal to Microsoft Research.
+- April 2022: Delivering a *SCAI Technical Talk* on Project Vasudha, internal to Microsoft Research.
+- Februray 2022: Showcasing *TAB'22 demo* on Project Vasudha to the TAB Committee.
+- December 2021 : Delivering a *TEM Talk* on Smart Grid Utilities, Technology and Empowerment, internal to Microsoft Research.
 - December 2021 : *Acceptance Notification* for "Reliable Energy Consumption Modeling for an Electric Vehicle Fleet" *in ACM COMPASS'22*, my first paper from MSR.
 - September 2021 : Reliable Energy Consumption Modeling for an Electric Vehicle Fleet, *under review in ACM COMPASS'22*.
 - __July 2021: Joining *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as [SCAI Research Fellow](https://www.microsoft.com/en-us/research/people/t-roymillend/).__
@@ -52,7 +52,7 @@ Also, recently I have started writing blogs (both technical and fun) mostly desc
 - __May 2021 : *Graduating from IIT ISM Dhanbad* with a Bachelor's Degree in Electrical Engineering.__
 - April 2021 : Acceptance Notification for Masters at University in Tromso (UiT), Norway
 - April 2021 : *Acceptance Notification* for "Deep Learning Framework for Enhancing Maritime Coastal Security" in  *IEEE INCET'21*.   
-- March 2021 : Joining *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as a Research Intern
+- March 2021 : Joining *__Microsoft Research__* as a Research Intern
 - February 2021 : *Presenting paper* titled “Renewable Energy and Demand Forecasting in an integrated Smart Grid” in *IEEE IEMRE'21*, my first paper.
 - February 2021 : A Deep Learning Framework for Enhancing Maritime Coastal Security, *under review in IEEE INCET'21*.
 - February 2021 : *[Asean Indian Hackathon'21](https://india-asean.mic.gov.in/team)* Global Finalist.
