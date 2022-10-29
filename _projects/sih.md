@@ -5,7 +5,7 @@ paperurl: '/files/RenewableEnergyandDemandForecastinginanIntegratedSmartGrid.pdf
 github: 'https://github.com/MillendRoy/Microgrid-EMS-Optimization'
 date: 2020-07-05
 ---
-Winner of the __Smart India Hackathon__, track set by Mathworks. Later on, the work got accepted in IEEE IEMRE'21.
+Winner of the __Smart India Hackathon__, track set by Mathworks. Later on, the work got accepted in IEEE IEMRE'21. 
 
 Renewable Energy and Demand Forecasting in integrated smart grid. 
 - Designed an integrated microgrid model in Simulink. 
