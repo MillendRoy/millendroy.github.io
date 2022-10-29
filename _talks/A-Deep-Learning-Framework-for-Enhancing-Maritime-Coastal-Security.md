@@ -3,9 +3,8 @@ title: "INCET Conference Proceedings talk on A Deep Learning Framework for Enhan
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/A-Deep-Learning-Framework-for-Enhancing-Maritime-Coastal-Security
+paperurl: '/files/INCET_21.pdf'
 venue: "JAIN COLLEGE OF ENGINEERING & TECHNOLOGY, Belgaum"
 date: 2021-05-21
 location: "Belagavi, India"
 ---
-
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
