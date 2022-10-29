@@ -67,7 +67,7 @@ $type-size-8                : 0.625em;  // ~10px
 // $info-color                 : #52adc8;
 
 /* Colors */
-$gray                       : #1976d2 !default;
+$gray                       : #2b343c !default;
 $dark-gray                  : mix(#000, $gray, 40%) !default;
 $darker-gray                : mix(#000, $gray, 60%) !default;
 $light-gray                 : mix(#fff, $gray, 50%) !default;
@@ -173,8 +173,8 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 10px;
-$box-shadow                 : 0 10px 10px rgba(0, 0, 1, 0.125);
+$border-radius              : 3px;
+$box-shadow                 : 0 3px 3px rgba(0, 0, 1, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
