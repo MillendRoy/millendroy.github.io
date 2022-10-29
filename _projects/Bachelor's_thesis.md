@@ -1,7 +1,12 @@
 ---
 title: "Islanding Detection using PMUs and A3C"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
+paperurl: '/files/Bachelors_Thesis.pdf'
+github: 'https://github.com/MillendRoy/A3C-based-Islanding-Detection'
+link: 'http://reports.ias.ac.in/report/19259/islanding-condition-its-causes-mode-of-origination-and-detection'
+date: 2021-02-16
 ---
+This is a part of my Bachelor's Thesis:
+- An inbuilt IEEE 34 node bus system is procured where renewable energy sources (PV, Wind and battery) are added at the distribution end in Simulink. 
+- Focus is made to work on deep reinforcement learning (A3C) classification framework to identify whether islanding has occurred or not.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

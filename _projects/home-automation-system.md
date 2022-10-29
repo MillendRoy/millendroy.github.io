@@ -4,6 +4,7 @@ collection: portfolio
 paperurl: '/files/Home_Automation_System.pdf'
 github: 'https://github.com/MillendRoy/Home_Automation_System'
 youtube: 'https://youtu.be/kZA6kvKYYq4'
+date: 2019-01-17
 ---
 
 Here, the objective was to control the lighting system using a smartphone application. 
