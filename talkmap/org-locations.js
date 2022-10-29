@@ -10,6 +10,16 @@ var addressPoints = [
     77.5963
   ],
   [
+    "Bengaluru, India",
+    12.9661,
+    77.5963
+  ],
+  [
+    "Bengaluru, India",
+    12.9661,
+    77.5963
+  ],
+  [
     "Kolkata, India",
     22.572645,
     88.363892
