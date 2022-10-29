@@ -13,7 +13,6 @@ Hello! I am a SCAI (Societal impact through Cloud and Artificial Intelligence) R
 Having an insatiable curiosity for Science, especially Physics, persuaded me to choose Electrical Engineering for my under-graduation course. Since then my understanding of the field, gradually grew into admiration.
 
 Please go over my [resume](../files/Millend_Resume.pdf) to know more about me.
-
 <br>
 # Interests 🔖
 My current research interests lie at the intersection of __Energy Systems__ and __Technology for Emerging Markets__ broadly in the areas of AI/ML in power systems, smart grid optimization and reinforcement learning.  
