@@ -1,6 +1,6 @@
 ---
 title: "Microgrid Energy Management System Optimization "
-collection: portfolio
+collection: projects
 paperurl: '/files/RenewableEnergyandDemandForecastinginanIntegratedSmartGrid.pdf'
 github: 'https://github.com/MillendRoy/Microgrid-EMS-Optimization'
 date: 2020-07-05

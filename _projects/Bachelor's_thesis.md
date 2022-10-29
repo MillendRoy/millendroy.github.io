@@ -1,6 +1,6 @@
 ---
 title: "Islanding Detection using PMUs and A3C"
-collection: portfolio
+collection: projects
 paperurl: '/files/Bachelors_Thesis.pdf'
 github: 'https://github.com/MillendRoy/A3C-based-Islanding-Detection'
 link: 'http://reports.ias.ac.in/report/19259/islanding-condition-its-causes-mode-of-origination-and-detection'

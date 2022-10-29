@@ -1,6 +1,6 @@
 ---
 title: "Seq2Seq Architecture based DL chatbot"
-collection: portfolio
+collection: projects
 date: 2020-01-20
 ---
 

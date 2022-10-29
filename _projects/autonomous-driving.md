@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Self-Driving Car Simulation"
-collection: portfolio
+collection: projects
 github: 'https://github.com/MillendRoy/Autonomous_Self-driving_Car_Simulation'
 date: 2020-04-14
 ---
