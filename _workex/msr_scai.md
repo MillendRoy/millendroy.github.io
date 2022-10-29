@@ -27,6 +27,6 @@ width:100px;
     <span class="emphasized">SCAI Research Fellow as a part of <a href = "https://www.microsoft.com/en-us/research/collaboration/scai/"> SCAI </a> team</span>
     <ul>
       <li> Working with Dr. Akshay Nambi and Tanuja Ganu on Project <a href = "https://www.microsoft.com/en-us/research/project/vasudha/">Vasudha</a> under Research Group - Technology for Emerging Markets, recently named <a href ="https://www.microsoft.com/en-us/research/theme/technology-and-empowerment/"> Technology and Empowerment </a>.
-      <li> Worked on Reliable Energy Consumption for an electric vehicle fleet, <a href = "../_publications/2015-10-01-paper-title-number-3.md"> published </a> in ACM COMPASS'22.
+      <li> Worked on Reliable Energy Consumption for an electric vehicle fleet, [published](../_publications/2022-06-29-paper-title-number-3.md) in ACM COMPASS'22.
       <li> Worked on Anomaly Detection in Electric Vehicles' Battery Systems.
-      <li> Working on EnCortex - A easy-to-use Decision Management Framework for Smart Grid Utilities, <a href = "../_publications/encortex.md">under review</a>. 
+      <li> Working on EnCortex - A easy-to-use Decision Management Framework for Smart Grid Utilities, [under review](../_publications/encortex.md). 
