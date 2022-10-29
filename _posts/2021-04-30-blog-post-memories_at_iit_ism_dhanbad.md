@@ -8,7 +8,17 @@ tags:
   - category2
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+I am writing this fairly late, after almost 2 years of my graduation. Still things that happened during the college days are just a flashback away, it always seems like yesterday. Some days back, I was scrolling through facebook and stumbled upon this video.
+<figure class="video_container">
+  <video controls="true" allowfullscreen="false" >
+    <source src="../videos/upsanddowns.mp4" type="video/mp4">
+  </video>
+</figure>
+ So with this, let's get started with the journey, and I hope you will have certain key takeaways and learnings from the mistakes I made which I have penned down here. 
+
+
+
+so as to not venture in the paths taken by me 
 
 Headings are cool
 ======
