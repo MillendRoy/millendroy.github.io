@@ -1,7 +1,7 @@
 ---
 title: "Reliable Energy Consumption Modeling for an Electric Vehicle Fleet"
 collection: publications
-permalink: /publication/Reliable-Energy-Consumption-Modeling-for-an-Electric-Vehicle-Fleet
+permalink: /publications/Reliable-Energy-Consumption-Modeling-for-an-Electric-Vehicle-Fleet
 date: 2022-06-29
 venue: ' ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS)'
 paperurl: '/files/ReliableEnergyConsumptionModelingforanEVFleet.pdf'
