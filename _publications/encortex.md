@@ -1,8 +1,8 @@
 ---
 title: "EnCortex: A General, Extensible and Scalable Framework for Decision Management in New-age Energy Systems"
 collection: publications
-permalink: /publication/EnCortex-A-General-Extensible-and-Scalable-Framework-for-Decision-Management-in-New-age-Energy-Systems
-excerpt: 'EnCortex provides a general, easy-to-use, extensible, and scalable energy decision framework that enables operators to plan, build and execute their real-world scenarios efficiently. We show that using EnCortex, we can define and compose complex new-age scenarios, owing to industry-standard abstractions of energy entities and the modularity of the framework. EnCortex provides a foundational structure to support several state-of-the-art optimizers with minimal effort. EnCortex supports both quick developments for research prototypes and scaling the solutions to production environments. We demonstrate the utility of EnCortex with three complex new-age real-world scenarios and show that significant cost and carbon footprint savings can be achieved.'
+permalink: /publications/EnCortex-A-General-Extensible-and-Scalable-Framework-for-Decision-Management-in-New-age-Energy-Systems
+excerpt: 'EnCortex provides a general, easy-to-use, extensible, and scalable energy decision framework that enables operators to plan, build and execute their real-world scenarios efficiently. We show that using EnCortex, we can define and compose complex new-age scenarios, owing to industry-standard abstractions of energy entities and the modularity of the framework. [Read more](EnCortex-A-General-Extensible-and-Scalable-Framework-for-Decision-Management-in-New-age-Energy-Systems)'
 date: 2022-10-05
 venue: 'Under Review in USENIX NSDI, 2023 '
 ---
