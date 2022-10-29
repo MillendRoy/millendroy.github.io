@@ -9,11 +9,8 @@ tags:
 ---
 
 I am writing this fairly late, after almost 2 years of my graduation. Still things that happened during the college days are just a flashback away, it always seems like yesterday. Some days back, I was scrolling through facebook and stumbled upon this video.
-<figure class="video_container">
-  <video controls="true" allowfullscreen="false" >
-    <source src="../videos/upsanddowns.mp4" type="video/mp4">
-  </video>
-</figure>
+<iframe width="420" height="315" src="../videos/upsanddowns.mp4" frameborder="0" allowfullscreen></iframe>
+
  So with this, let's get started with the journey, and I hope you will have certain key takeaways and learnings from the mistakes I made which I have penned down here. 
 
 
