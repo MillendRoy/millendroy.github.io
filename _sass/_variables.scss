@@ -92,12 +92,13 @@ $link-color                 : $info-color !default;
 $link-color-hover           : mix(#000, $link-color, 25%) !default;
 $link-color-visited         : mix(#fff, $link-color, 25%) !default;
 $masthead-link-color        : $primary-color !default;
-$masthead-link-color-hover  : mix(#fff, $primary-color, 25%) !default;
+$masthead-link-color-hover  : mix(#fff, $link-color, 25%) !default;
 
 /* brands */
 $behance-color              : #1769FF;
 $dribbble-color             : #ea4c89;
 $facebook-color             : #3b5998;
+$googlescholar-color        : #1769FF;
 $flickr-color               : #ff0084;
 $foursquare-color           : #0072b1;
 $github-color               : #171516;
@@ -112,7 +113,7 @@ $stackoverflow-color        : #fe7a15;
 $tumblr-color               : #32506d;
 $twitter-color              : #55acee;
 $vimeo-color                : #1ab7ea;
-$vine-color                 : #00bf8f;
+$researchgate-color         : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
@@ -148,9 +149,9 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 200px;
-$right-sidebar-width        : 300px;
-$right-sidebar-width-wide   : 400px;
+$right-sidebar-width-narrow : 0px;
+$right-sidebar-width        : 0px;
+$right-sidebar-width-wide   : 0px;
 
 $susy: (
   columns: 12,
