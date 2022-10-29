@@ -2,7 +2,7 @@
 title: "A Data Driven Fault Detection Approach with an Ensemble Classifier based Smart Meter in Modern Distribution System"
 collection: publications
 permalink: /publications/A-Data-Driven-Fault-Detection-Approach-with-an-Ensemble-Classifier-based-Smart-Meter-in-Modern-Distribution-System
-excerpt: 'To maintain the continuity of the power supply, a fast and accurate fault detection strategy is required to isolate the fault. In view of this, the paper presents a data driven fault detection approach with an ensemble classifier based smart meter in modern distribution system. To achieve this, a random forest (RF) based fault detection algorithm is programmed within the smart meter. At first, the magnitude of maximum angular difference between positive and zero sequence component of the current at the DG bus is computed. [Read more](millendroy.github.io/publications/A-Data-Driven-Fault-Detection-Approach-with-an-Ensemble-Classifier-based-Smart-Meter-in-Modern-Distribution-System)'
+excerpt: 'To maintain the continuity of the power supply, a fast and accurate fault detection strategy is required to isolate the fault. In view of this, the paper presents a data driven fault detection approach with an ensemble classifier based smart meter in modern distribution system. To achieve this, a random forest (RF) based fault detection algorithm is programmed within the smart meter. At first, the magnitude of maximum angular difference between positive and zero sequence component of the current at the DG bus is computed. [Read more](A-Data-Driven-Fault-Detection-Approach-with-an-Ensemble-Classifier-based-Smart-Meter-in-Modern-Distribution-System)'
 date: 2022-07-05
 venue: 'Under Review in Sustainable Energy, Grids and Networks Journal, 2023'
 ---
