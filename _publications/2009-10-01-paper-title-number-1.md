@@ -2,7 +2,6 @@
 title: "Renewable Energy and Demand Forecasting in an Integrated Smart Grid"
 collection: publications
 permalink: /publications/Renewable-Energy-and-Demand-Forecasting-in-an-Integrated-Smart-Grid
-excerpt: 'The paper presents a framework that realistically simulates a microgrid and forecasts renewable energy and load demand. Electricity spot prices are also forecasted and used by the scheduler to optimize the total microgrid cost per day.'
 date: 2021-02-05
 venue: 'IEEE International Conference on Innovations in Energy Management and Renewable Resources (IEMRE), 2021'
 paperurl: '/files/RenewableEnergyandDemandForecastinginanIntegratedSmartGrid.pdf'
