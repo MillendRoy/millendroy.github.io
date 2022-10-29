@@ -8,3 +8,5 @@ venue: "Jain College of Engineering and Technology, Belgaum"
 date: 2021-05-21
 location: "Belagavi, India"
 ---
+
+In this Conference Proceedings talk, I discuss how to tackle maritime coastal security using a deep learning architecture namely faster region based convolutional neural network (Faster R-CNN). We accurately detect vessels in satellite images and output the latitude and longitude coordinates which when merged with AIS data helps identify whether the vessel is registered or not. 

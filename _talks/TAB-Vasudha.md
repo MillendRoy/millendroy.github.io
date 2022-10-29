@@ -8,4 +8,4 @@ date: 2022-02-04
 location: "Bengaluru, India"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+This is a demo presentation given to the TAB committee on how we are designing Vasudha as a project and seek feedback on how we can improve.

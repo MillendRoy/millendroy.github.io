@@ -3,11 +3,10 @@ title: "ACM COMPASS Proceedings Talk on Reliable Energy Consumption Modeling for
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/Reliable-Energy-Consumption-Modeling-for-an-Electric-Vehicle-Fleet
+paperurl: '/files/Compass_ppt_23June.pdf'
 venue: "University of Washington, Seattle"
 date: 2022-06-29
 location: "Seattle, WA, USA"
 ---
 
-[More information here](http://example2.com)
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+In this Conference Proceedings talk, I first highlight the challenges in modelling energy consumption and demonstrate the nature of data which is required to understand the energy consumption of electric vehicles under real-world conditions. Then, I discuss our approach and show how it outperforms Deep Learning based modelling for EV energy consumption prediction.
