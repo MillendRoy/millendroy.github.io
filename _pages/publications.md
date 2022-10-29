@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on my <a href="https://scholar.google.com/citations?user=DqKNmmUAAAAJ&hl=en&authuser=1"> Google Scholar </a> and <a href="https://www.researchgate.net/profile/Millend-Roy"> ResearchGate </a> profiles.
+<!-- You can also find my publications on my <a href="https://scholar.google.com/citations?user=DqKNmmUAAAAJ&hl=en&authuser=1"> Google Scholar </a> and <a href="https://www.researchgate.net/profile/Millend-Roy"> ResearchGate </a> profiles. -->
 <br>
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
