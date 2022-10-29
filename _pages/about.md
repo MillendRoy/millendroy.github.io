@@ -14,15 +14,16 @@ Having an insatiable curiosity for Science, especially Physics, persuaded me to 
 
 Please go over my [resume](../files/Millend_Resume.pdf) to know more about me.
 
+
 # Interests 🔖
 My current research interests lie at the intersection of __Energy Systems__ and __Technology for Emerging Markets__ broadly in the areas of AI/ML in power systems, smart grid optimization and reinforcement learning.  
 
 > __*I am currently looking for PhD opportunities to pursue research in a similar field with applications open to renewable integration to smart grids, fault diagnosis in power systems, detecting cyber attacks in critical load systems, improving battery technologies for electric vehicles, autonomous driving and safe control robotics, electric traction and climate change.*__
   
 ## Current and Past Research Works 🔍
-At Microsoft Research (MSR), I work on Project [Vasudha](https://www.microsoft.com/en-us/research/project/vasudha/) under the guidance of [Dr. Akshay Nambi](https://www.microsoft.com/en-us/research/people/akshayn/) and [Tanuja Ganu](https://www.microsoft.com/en-us/research/people/taganu/). My research focuses on applying machine learning for optimization and control in distributed energy resources (DERs) of high-renewable power grids. Specifically, my work explores different Reinforcement Learning techniques, stochastic and traditional discrete optimization algorithms that solves the physics based constraints associated with power systems. Being a SCAI fellow, my vocation also encompasses on transitioning the research work to early-stage deployable solutions for partners of Microsoft, where I collaborate with [Dr. Shivkumar Kalyanaraman's](http://www.shivkumar.org/) team of Azure Energy and Mobility on the same. To know more about my works at MSR, please visit [here](../_posts/2015-08-14-blog-post-4.md).
+At Microsoft Research (MSR), I work on Project [Vasudha](https://www.microsoft.com/en-us/research/project/vasudha/) under the guidance of [Dr. Akshay Nambi](https://www.microsoft.com/en-us/research/people/akshayn/) and [Tanuja Ganu](https://www.microsoft.com/en-us/research/people/taganu/). My research focuses on applying machine learning for optimization and control in distributed energy resources (DERs) of high-renewable power grids. Specifically, my work explores different Reinforcement Learning techniques, stochastic and traditional discrete optimization algorithms that solves the physics based constraints associated with power systems. Being a SCAI fellow, my vocation also encompasses on transitioning the research work to early-stage deployable solutions for partners of Microsoft, where I collaborate with [Dr. Shivkumar Kalyanaraman's](http://www.shivkumar.org/) team of Azure Energy and Mobility on the same. To know more about my works at MSR, please visit [here](https://www.microsoft.com/en-us/research/people/t-roymillend/).
  
-My research in AI for Social Good until now has tackled various societal impact like [addressing range anxiety](../_publications/2015-10-01-paper-title-number-3.md) of electric vehicles' drivers, [enhancing maritime coastal security](../_publications/2010-10-01-paper-title-number-2.md), accurately scheduling batteries to [reduce carbon footprints](../_publications/encortex.md) of consumers, [benefitting energy providers](../_publications/2009-10-01-paper-title-number-1.md) by scheduling their renewable resources, [detecting fault location and type](../_publications/hosting-capacity.md) in active distribution networks. 
+My research in AI for Social Good until now has tackled various societal impact like [addressing range anxiety](../_publications/2022-06-29-paper-title-number-3.md) of electric vehicles' drivers, [enhancing maritime coastal security](../_publications/2010-10-01-paper-title-number-2.md), accurately scheduling batteries to [reduce carbon footprints](../_publications/encortex.md) of consumers, [benefitting energy providers](../_publications/2009-10-01-paper-title-number-1.md) by scheduling their renewable resources, [detecting fault location and type](../_publications/hosting-capacity.md) in active distribution networks. 
 
 Please see [here](publications.md) for a list of my recent publications. 
 
@@ -40,9 +41,9 @@ Outside of research, I like playing cricket, table tennis, and pool. Playing tab
 - July 2022: A Data Driven Fault Detection Approach with an Ensemble Classifier based Smart Meter in Modern Distribution System, *under review in Sustainable Energy, Grids and Networks Journal*.
 - July 2022: Extending stint at *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as [SCAI Research Fellow](https://www.microsoft.com/en-us/research/people/t-roymillend/).
 - June 2022: *Presenting paper* titled "Reliable Energy Consumption Modeling for an Electric Vehicle Fleet", *in ACM COMPASS'22*.
-- April 2022: Delivering a *[SCAI Technical Talk]()* on Project Vasudha, internal to Microsoft Research.
-- Februray 2022: Showcasing *[TAB'22]() demo* on Project Vasudha to the TAB Committee.
-- December 2021 : Delivering a *[TEM Talk]()* on Smart Grid Utilities, Technology and Empowerment, internal to Microsoft Research.
+- April 2022: Delivering a *[SCAI Technical Talk](../_talks/SCAI-Vasudha.md)* on Project Vasudha, internal to Microsoft Research.
+- Februray 2022: Showcasing *[TAB'22](../_talks/TAB-Vasudha.md) demo* on Project Vasudha to the TAB Committee.
+- December 2021 : Delivering a *[TEM Talk](../_talks/Smart-Grid-Utilities.md)* on Smart Grid Utilities, Technology and Empowerment, internal to Microsoft Research.
 - December 2021 : *Acceptance Notification* for "Reliable Energy Consumption Modeling for an Electric Vehicle Fleet" *in ACM COMPASS'22*, my first paper from MSR.
 - September 2021 : Reliable Energy Consumption Modeling for an Electric Vehicle Fleet, *under review in ACM COMPASS'22*.
 - __July 2021: Joining *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as [SCAI Research Fellow](https://www.microsoft.com/en-us/research/people/t-roymillend/).__
@@ -53,6 +54,7 @@ Outside of research, I like playing cricket, table tennis, and pool. Playing tab
 - March 2021 : Joining *[Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/)* as a Research Intern
 - February 2021 : *Presenting paper* titled “Renewable Energy and Demand Forecasting in an integrated Smart Grid” in *IEEE IEMRE'21*, my first paper.
 - February 2021 : A Deep Learning Framework for Enhancing Maritime Coastal Security, *under review in IEEE INCET'21*.
-- February 2021 : *[Asean Indian Hackathon'21](../_posts/memories_at_iit_ism_dhanbad.md)* Global Finalist.
-- September 2020 : *[Samsung Innovation Awards'20](../_posts/memories_at_iit_ism_dhanbad.md)* Finalist
+- February 2021 : *[Asean Indian Hackathon'21](https://india-asean.mic.gov.in/team)* Global Finalist.
+- November 2020 : __Press__: Contribution to Hurr.Ai led to nomination of Hurrey in SAP [Economic Times Innovation Awards](https://www.linkedin.com/feed/update/urn:li:activity:6730448483855269888/).
+- September 2020 : *[Samsung Innovation Awards'20](../images/certi-merit-Linear-Optimization.jpg)* Finalist
 - August 2020 : Winner of Grand Finale of *[Smart Indian Hackathon'20](https://www.linkedin.com/feed/update/urn:li:activity:6696450610167848960/)*.
