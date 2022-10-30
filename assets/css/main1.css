@@ -51,14 +51,15 @@ position:relative
 
 .photo-gallery, .photo-gallery li {
 	list-style: none;
-	padding: 0;
+	padding: 5;
 }
 
 .photo-gallery li {
 	display: inline-block;
-	width: 33%;
+	width: 30%;
 }
 
 .photo-gallery li img {
 	width: 100%;
+    border: 1px solid black;
 }
