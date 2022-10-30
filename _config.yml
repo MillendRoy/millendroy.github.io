@@ -271,6 +271,9 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-remote-theme
+  - jekyll-minimagick
+  - exifr
+  - mini_magick
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -281,7 +284,9 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-minimagick
+  - exifr
+  - mini_magick
 
 # Archives
 #  Type
