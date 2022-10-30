@@ -13,7 +13,7 @@ I am writing this fairly late, after almost 2 years of my graduation. Still thin
 
 So with this, let's get started with the journey, and I hope you will have certain key takeaways and learnings from the mistakes I made which I have penned down here. 
 
-{% include album.html albumname="soloTravel" %}
+{% include album.html albumname="college_school" %}
 
 so as to not venture in the paths taken by me 
 
