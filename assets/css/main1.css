@@ -51,7 +51,7 @@ position:relative
 
 .photo-gallery, .photo-gallery li {
 	list-style: none;
-	padding: 0;
+	padding: 1;
 }
 
 .photo-gallery li {
