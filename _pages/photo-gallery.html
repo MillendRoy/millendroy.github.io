@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Gallery"
+permalink: /gallery/
+author_profile: false
+images:
+  - image_path: /images/art_gallery/college_school/500x300.jpg
+    title: Apple Pie
+  - image_path: /images/art_gallery/college_school/3953273590_704e3899d5_m.jpg
+    title: Birthday Cake
+---
+<ul class="photo-gallery">
+    {% for image in page.images %}
+      <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+    {% endfor %}
+</ul>
