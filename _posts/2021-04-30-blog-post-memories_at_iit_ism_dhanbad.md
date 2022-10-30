@@ -13,8 +13,8 @@ I am writing this fairly late, after almost 2 years of my graduation. Still thin
 
 So with this, let's get started with the journey, and I hope you will have certain key takeaways and learnings from the mistakes I made which I have penned down here. 
 
-{% includeGallery uniqueAlbumName %}
-
+{% include album.html albumname="college_school" %}
+{% include al_gallery.html folder="images/art_gallery/college_school" %}
 so as to not venture in the paths taken by me 
 
 
