@@ -48,3 +48,17 @@ padding-top:80px;
 height:70px;
 position:relative
 }
+
+.photo-gallery, .photo-gallery li {
+	list-style: none;
+	padding: 0;
+}
+
+.photo-gallery li {
+	display: inline-block;
+	width: 33%;
+}
+
+.photo-gallery li img {
+	width: 100%;
+}
