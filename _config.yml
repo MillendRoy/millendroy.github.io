@@ -319,6 +319,7 @@ compress_html:
   ignore:
     envs: development
 
+#Jekyll-Photo-Gallery Settings
 exiftag:
  sources:
    - images/photography #Set to location of photos
@@ -334,6 +335,17 @@ mini_magick:
         source: images/headers
         destination: images/headers/thumbnails
         resize: "400x250"
+
+# mini_magick:
+#     thumbnail:
+#       source: images/art_gallery
+#       destination: images/art_gallery/thumbnail
+#       resize: "400x400"
+#     medium:
+#       source: images/art_gallery
+#       destination: images/art_gallery/medium
+#       resize: "600x400"
+
 # mini_magick:
 #     photoFolders:
 #         source: images/art_gallery
