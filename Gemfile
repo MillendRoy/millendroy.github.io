@@ -35,4 +35,5 @@ group :jekyll_plugins do
   gem "jekyll"
   gem "mini_magick"
   gem "exifr"
+  gem "jekyll-minimagick"
 end
