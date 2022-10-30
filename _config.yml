@@ -320,14 +320,21 @@ compress_html:
     envs: development
 
 mini_magick:
-    photoFolders:
-        source: images/art_gallery
-        destination: thumbnails/images/art_gallery
-        resize: "320x240^"
-        gravity: "center"
-        extent: "320x240"
+    thumbnail:
+      source: images/art_gallery
+      destination: images/art_gallery/thumbnail
+      resize: "100x100"
+    medium:
+      source: images/art_gallery
+      destination: images/art_gallery/medium
+      resize: "600x400"
 
-exiftag:
- sources:
-   - images
-   - images/art_gallery
+# mini_magick:
+#     photoFolders:
+#         source: images/art_gallery
+#         destination: thumbnails/images/art_gallery
+#         resize: "320x240^"
+#         gravity: "center"
+#         extent: "320x240"
+
+

@@ -1,5 +1,5 @@
 require 'mini_magick'
-
+require "jekyll-minimagick"
 module Jekyll
   module JekyllMinimagick
 
