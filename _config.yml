@@ -319,16 +319,21 @@ compress_html:
   ignore:
     envs: development
 
-mini_magick:
-    thumbnail:
-      source: images/art_gallery
-      destination: images/art_gallery/thumbnail
-      resize: "100x100"
-    medium:
-      source: images/art_gallery
-      destination: images/art_gallery/medium
-      resize: "600x400"
+exiftag:
+ sources:
+   - images/photography #Set to location of photos
 
+#MiniMagick
+#https://github.com/zroger/jekyll-minimagick
+mini_magick:
+    photography:
+        source: images/photography
+        destination: images/photography/thumbnails
+        resize: "1280x720"
+    headers:
+        source: images/headers
+        destination: images/headers/thumbnails
+        resize: "400x250"
 # mini_magick:
 #     photoFolders:
 #         source: images/art_gallery

@@ -17,6 +17,29 @@ So with this, let's get started with the journey, and I hope you will have certa
 
 so as to not venture in the paths taken by me 
 
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      {% if post.layout != 'album' %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ '../feed.xml' | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
+
+
 Headings are cool
 ======
 
