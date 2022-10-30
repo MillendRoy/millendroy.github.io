@@ -32,4 +32,7 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "jekyll-remote-theme"
   gem "minimal-mistakes-jekyll"
+  gem "jekyll"
+  gem "mini_magick"
+  gem "exifr"
 end

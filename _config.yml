@@ -318,3 +318,16 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+mini_magick:
+    photoFolders:
+        source: images/art_gallery
+        destination: thumbnails/images/art_gallery
+        resize: "320x240^"
+        gravity: "center"
+        extent: "320x240"
+
+exiftag:
+ sources:
+   - images
+   - images/art_gallery
