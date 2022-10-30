@@ -2,7 +2,7 @@
 
     {% for image in site.static_files %}
         {% if image.path contains 'images/art_gallery' and image.path contains include.albumname %}
-            <a href="{{ image.path }}" data-sub-html="{% exiftag image_description, , {{ image.path }} %}" >
+            <a href="{{ image.path }}">
                 <img src="/thumbnails{{ image.path }}" />
             </a>
         {% endif %}
