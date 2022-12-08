@@ -5,7 +5,6 @@ permalink: /publications/Machine-Learning-Based-Adaptive-Fault-Diagnosis-conside
 excerpt: 'Augmentation of distributed energy resources (DERs) safely in the distribution system termed as hosting capacity (HC) is one of the prominent needs to achieve energy sufficiency with minimum emission. However, any amendment in HC over premeditated injection sets up challenges in the perspective of situational awareness (SA) of networks for precise decision-making related to fault prediction and location. In this work, the author(s) propose histogram-based gradient boost (HGB) algorithm, an accurate machine learning (ML) technique for fault type detection and localization. [Read more](Machine-Learning-Based-Adaptive-Fault-Diagnosis-considering-Hosting-Capacity-Amendment-in-Active-Distribution-Network)'
 date: 2022-10-04
 venue: 'Electric Power Systems Research Journal, 2023'
-paperurl: '/files/HostingCapacity.pdf'
 link: 'https://www.sciencedirect.com/science/article/pii/S0378779622010744'
 citation: 'Sourav Kumar Sahu, Millend Roy, Soham Dutta, Debomita Ghosh, Dusmanta Kumar Mohanta, "Machine learning based adaptive fault diagnosis considering hosting capacity amendment in active distribution network," Electric Power Systems Research, Volume 216, 2023, 109025, ISSN 0378-7796, https://doi.org/10.1016/j.epsr.2022.109025.'
 ---
