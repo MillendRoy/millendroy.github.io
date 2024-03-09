@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an M.S. Ph.D. student in Operations Research working with Professor [Agostino Capponi](https://www.columbia.edu/~ac3827/) at Columbia University. Previously, I was a SCAI (Societal impact through Cloud and Artificial Intelligence) Research Fellow at Microsoft Research Lab India. Prior to this, I received my Bachelor's Degree in Electrical Engineering from Indian Institute of Technology, Indian School of Mines, Dhanbad (IIT-ISM). 
+Hello! I am an M.S. Ph.D. student in Operations Research, working with [Prof. Agostino Capponi](https://www.columbia.edu/~ac3827/) at Columbia University. 
+
+Previously, I was a SCAI (Societal impact through Cloud and Artificial Intelligence) Research Fellow at Microsoft Research Lab India. Prior to this, I received my Bachelor's Degree in Electrical Engineering from Indian Institute of Technology, Indian School of Mines, Dhanbad (IIT-ISM). 
 
 Please go over my [resume](../files/Millend_Resume.pdf) to know more about me.
 <br>
 # Interests 🔖
 My current research interests lie at the intersection of __Energy Systems__ and __Technology for Emerging Markets__ broadly in the areas of AI/ML in power systems, smart grid optimization and reinforcement learning.  
 
-<!--> __*I am currently looking for opportunities to pursue research in a similar field with applications open to renewable integration to smart grids, fault diagnosis in power systems, detecting cyber attacks in critical load systems, improving battery technologies for electric vehicles, autonomous driving and safe control robotics, electric traction and climate change.*__
+<!--> __*I am currently looking for opportunities to pursue research in a similar field with applications open to renewable integration to smart grids, fault diagnosis in power systems, detecting cyber attacks in critical load systems, improving battery technologies for electric vehicles, autonomous driving and safe control robotics, electric traction and climate change.*__--!>
   
 ## Past Research Works 🔍
 At Microsoft Research (MSR), I work on Project [Vasudha](https://www.microsoft.com/en-us/research/project/vasudha/) under the guidance of [Dr. Akshay Nambi](https://www.microsoft.com/en-us/research/people/akshayn/), [Tanuja Ganu](https://www.microsoft.com/en-us/research/people/taganu/) 
@@ -58,4 +60,4 @@ Outside of research, I like playing cricket, table tennis, and pool. Playing tab
 - February 2021 : *[Asean Indian Hackathon'21](https://india-asean.mic.gov.in/team)* Global Finalist.
 - November 2020 : __Press__: Contribution to Hurr.Ai led to nomination of Hurrey in SAP [Economic Times Innovation Awards](https://www.linkedin.com/feed/update/urn:li:activity:6730448483855269888/).
 - September 2020 : *[Samsung Innovation Awards'20](../images/certi-merit-Linear-Optimization.jpg)* Finalist
-- August 2020 : Winner of Grand Finale of *[Smart Indian Hackathon'20](https://www.linkedin.com/feed/update/urn:li:activity:6696450610167848960/)*.
+- August 2020 : Winner of Grand Finale of *[Smart Indian Hackathon'20](https://www.linkedin.com/feed/update/urn:li:activity:6696450610167848960/)*.--!>
