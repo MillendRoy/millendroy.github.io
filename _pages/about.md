@@ -31,7 +31,10 @@ Outside of research, I like playing cricket, table tennis, and pool. Playing tab
 <!--Also, recently I have started writing blogs (both technical and fun) mostly describing the papers that I go through in energy domain. Please head over [here](), to read them. I being fairly new in writing blogs, any advice in how to improve writing would be really helpful and much appreciated.
 <!-- You can also find some of my articles on my [personal blog](year-archive.html) about the endeavours during my [bachelors'](../_posts/memories_at_iit_ism_dhanbad.md), where I briefly mention the ups and downs during the exciting four years of journey.  -->
 <!-- Please visit [here](../_posts/finding-the-artist-within-me.md), where I showcase some of my drawings.  -->
-<!-- __*I am currently looking for opportunities to pursue research in a similar field with applications open to renewable integration to smart grids, fault diagnosis in power systems, detecting cyber attacks in critical load systems, improving battery technologies for electric vehicles, autonomous driving and safe control robotics, electric traction and climate change.*__
+
+<!-- __*I am currently looking for opportunities to pursue research in a similar field with applications open to renewable integration to smart grids, fault diagnosis in power systems, detecting cyber attacks in critical load systems, improving battery technologies for electric vehicles, autonomous driving and safe control robotics, electric traction and climate change.*__ -->
+
+<!--
 # News 🗞️
 -
 - October 2022: *EnCortex*: Stochastic Optimization for Renewable Energy sources, *under Patent, CELA review*.
@@ -57,4 +60,5 @@ Outside of research, I like playing cricket, table tennis, and pool. Playing tab
 - February 2021 : *[Asean Indian Hackathon'21](https://india-asean.mic.gov.in/team)* Global Finalist.
 - November 2020 : __Press__: Contribution to Hurr.Ai led to nomination of Hurrey in SAP [Economic Times Innovation Awards](https://www.linkedin.com/feed/update/urn:li:activity:6730448483855269888/).
 - September 2020 : *[Samsung Innovation Awards'20](../images/certi-merit-Linear-Optimization.jpg)* Finalist
-- August 2020 : Winner of Grand Finale of *[Smart Indian Hackathon'20](https://www.linkedin.com/feed/update/urn:li:activity:6696450610167848960/)*.--!>
+- August 2020 : Winner of Grand Finale of *[Smart Indian Hackathon'20](https://www.linkedin.com/feed/update/urn:li:activity:6696450610167848960/)*.
+-->
