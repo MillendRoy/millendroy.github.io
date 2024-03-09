@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am an M.S. Ph.D. student in Operations Research, working with [Prof. Agostino Capponi](https://www.columbia.edu/~ac3827/) at Columbia University. 
 
-Previously, I was a SCAI (Societal impact through Cloud and Artificial Intelligence) Research Fellow at Microsoft Research Lab India. Prior to this, I received my Bachelor's Degree in Electrical Engineering from Indian Institute of Technology, Indian School of Mines, Dhanbad (IIT-ISM). 
+Previously, I was a SCAI (Societal impact through Cloud and Artificial Intelligence) Research Fellow at Microsoft Research Lab India. I received my Bachelor's Degree in Electrical Engineering from Indian Institute of Technology, Indian School of Mines, Dhanbad (IIT-ISM). 
 
 Please go over my [resume](../files/Millend_Resume.pdf) to know more about me.
 <br>
@@ -31,9 +31,8 @@ Outside of research, I like playing cricket, table tennis, and pool. Playing tab
 <!--Also, recently I have started writing blogs (both technical and fun) mostly describing the papers that I go through in energy domain. Please head over [here](), to read them. I being fairly new in writing blogs, any advice in how to improve writing would be really helpful and much appreciated.
 <!-- You can also find some of my articles on my [personal blog](year-archive.html) about the endeavours during my [bachelors'](../_posts/memories_at_iit_ism_dhanbad.md), where I briefly mention the ups and downs during the exciting four years of journey.  -->
 <!-- Please visit [here](../_posts/finding-the-artist-within-me.md), where I showcase some of my drawings.  -->
-<!-- __*I am currently looking for opportunities to pursue research in a similar field with applications open to renewable integration to smart grids, fault diagnosis in power systems, detecting cyber attacks in critical load systems, improving battery technologies for electric vehicles, autonomous driving and safe control robotics, electric traction and climate change.*__--!>
-
-<!--# News 🗞️
+<!-- __*I am currently looking for opportunities to pursue research in a similar field with applications open to renewable integration to smart grids, fault diagnosis in power systems, detecting cyber attacks in critical load systems, improving battery technologies for electric vehicles, autonomous driving and safe control robotics, electric traction and climate change.*__
+# News 🗞️
 -
 - October 2022: *EnCortex*: Stochastic Optimization for Renewable Energy sources, *under Patent, CELA review*.
 - October 2022: Machine Learning Based Adaptive Fault Diagnosis considering Hosting Capacity Amendment in Active Distribution Network, *revise and resubmit in Electric Power Systems Research Journal*.
