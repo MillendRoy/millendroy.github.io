@@ -16,8 +16,6 @@ Please go over my [resume](../files/Millend_Resume.pdf) to know more about me.
 <br>
 # Interests 🔖
 My current research interests lie at the intersection of __Energy Systems__ and __Technology for Emerging Markets__ broadly in the areas of AI/ML in power systems, smart grid optimization and reinforcement learning.  
-
-<!--> __*I am currently looking for opportunities to pursue research in a similar field with applications open to renewable integration to smart grids, fault diagnosis in power systems, detecting cyber attacks in critical load systems, improving battery technologies for electric vehicles, autonomous driving and safe control robotics, electric traction and climate change.*__--!>
   
 ## Past Research Works 🔍
 At Microsoft Research (MSR), I work on Project [Vasudha](https://www.microsoft.com/en-us/research/project/vasudha/) under the guidance of [Dr. Akshay Nambi](https://www.microsoft.com/en-us/research/people/akshayn/), [Tanuja Ganu](https://www.microsoft.com/en-us/research/people/taganu/) 
@@ -33,7 +31,7 @@ Outside of research, I like playing cricket, table tennis, and pool. Playing tab
 <!--Also, recently I have started writing blogs (both technical and fun) mostly describing the papers that I go through in energy domain. Please head over [here](), to read them. I being fairly new in writing blogs, any advice in how to improve writing would be really helpful and much appreciated.
 <!-- You can also find some of my articles on my [personal blog](year-archive.html) about the endeavours during my [bachelors'](../_posts/memories_at_iit_ism_dhanbad.md), where I briefly mention the ups and downs during the exciting four years of journey.  -->
 <!-- Please visit [here](../_posts/finding-the-artist-within-me.md), where I showcase some of my drawings.  -->
-
+<!-- __*I am currently looking for opportunities to pursue research in a similar field with applications open to renewable integration to smart grids, fault diagnosis in power systems, detecting cyber attacks in critical load systems, improving battery technologies for electric vehicles, autonomous driving and safe control robotics, electric traction and climate change.*__--!>
 
 <!--# News 🗞️
 -
