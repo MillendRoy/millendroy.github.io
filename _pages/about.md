@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an M.S. Ph.D. student in Operations Research, working with [Prof. Agostino Capponi](https://www.columbia.edu/~ac3827/) at Columbia University. 
+Hello! I am an M.S. - Ph.D. student in Operations Research, working with [Prof. Agostino Capponi](https://www.columbia.edu/~ac3827/) at Columbia University. 
 
-Previously, I was a SCAI (Societal impact through Cloud and Artificial Intelligence) Research Fellow at Microsoft Research Lab India. I received my Bachelor's Degree in Electrical Engineering from Indian Institute of Technology, Indian School of Mines, Dhanbad (IIT-ISM). 
+Previously, I was a SCAI (Societal impact through Cloud and Artificial Intelligence) Research Fellow at Microsoft Research Lab India. I received my Bachelor's Degree in Electrical Engineering from Indian Institute of Technology, Dhanbad (IIT-ISM). 
 
 Please go over my [resume](../files/Millend_Resume.pdf) to know more about me.
 <br>
