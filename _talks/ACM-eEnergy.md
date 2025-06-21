@@ -1,5 +1,5 @@
 ---
-title: "ACM e-Energy Proceedings Poster on Dynamic Incentive Design for Demand Response in Energy System MicroGrids"
+title: "ACM e-Energy Proceedings Poster Session at AI-Deeds Workshop"
 collection: poster
 type: "Conference proceedings poster"
 permalink: /talks/ACM-eEnergy
