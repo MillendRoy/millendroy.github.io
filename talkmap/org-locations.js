@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Seattle WA, USA",
+    "Seattle, WA, USA",
     47.655548,
     -122.303200
   ],
@@ -28,5 +28,15 @@ var addressPoints = [
     "Belgaum, Belagavi, India",
     15.7963,
     74.4739
+  ],
+  [
+    "Rotterdam, Netherlands",
+    51.926517, 
+    4.462456
+  ],
+  [
+    "Boston, MA, USA",
+    42.361145, 
+    -71.057083
   ]
 ];
