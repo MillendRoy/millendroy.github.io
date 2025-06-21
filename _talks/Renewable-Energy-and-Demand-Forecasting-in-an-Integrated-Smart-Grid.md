@@ -1,5 +1,5 @@
 ---
-title: "IEMRE Conference Proceedings Talk on Renewable Energy and Demand Forecasting in an Integrated Smart Grid"
+title: "IEMRE Conference Proceedings Talk"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/Renewable-Energy-and-Demand-Forecasting-in-an-Integrated-Smart-Grid
