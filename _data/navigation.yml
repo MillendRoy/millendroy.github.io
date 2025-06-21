@@ -9,8 +9,8 @@ main:
   - title: "Experiences"
     url: /workex/    
     
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
   - title: "Art-Gallery"
     url: /gallery/
