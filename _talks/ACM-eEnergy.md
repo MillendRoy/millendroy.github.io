@@ -3,7 +3,7 @@ title: "ACM Conference Proceedings Poster on Dynamic Incentive Design for Demand
 collection: poster
 type: "Conference proceedings poster"
 permalink: /talks/ACM-eEnergy
-paperurl: '/files/Acm_enenergy_poster.jpg'
+paperurl: '/files/Acm_enenergy_poster.pdf'
 venue: " Nhow Rotterdam Hotel"
 date: 2025-06-17
 location: "Rotterdam, Netherlands"
