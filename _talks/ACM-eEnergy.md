@@ -1,9 +1,9 @@
 ---
-title: "ACM Conference Proceedings Poster on Dynamic Incentive Design for Demand Response in Energy System MicroGrids"
+title: "ACM e-Energy Proceedings Poster on Dynamic Incentive Design for Demand Response in Energy System MicroGrids"
 collection: poster
 type: "Conference proceedings poster"
 permalink: /talks/ACM-eEnergy
-paperurl: '/files/Acm_enenergy_poster.pdf'
+paperurl: '/files/Acm _enenergy_poster.pdf'
 venue: " Nhow Rotterdam Hotel"
 date: 2025-06-17
 location: "Rotterdam, Netherlands"
