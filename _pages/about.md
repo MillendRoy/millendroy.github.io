@@ -25,12 +25,16 @@ My research in AI for Social Good until now has tackled various societal impact 
 
 Please see [here](publications.md) for a list of my recent publications. 
 
-## What outside work 🏓 ! 
-Outside of research, I like playing cricket, table tennis, and pool. Playing table tennis during the respite hours in the MSR office has been a pure source of enjoyment, relaxation and recharging for me to do better work. 
+## Outside of Research 🎨🏏🎶
+Outside of research, I enjoy playing **cricket**, **table tennis**, and **pool**.  
+Playing table tennis during the respite hours at the MSR office was a pure source of enjoyment and relaxation — a great way to recharge and return to work with fresh energy.  
 
-Besides this, I love painting and sketching during my leisure times. Please head over to the [gallery](photo-gallery.html) to view some of my sketchings. I completed my 5th yr (Sr. Diploma) with Distinction in the subject of Painting and was also a part of [Art Freaks](https://www.facebook.com/artfreaks.ism) Core Team at IIT-ISM. 
+I also love **painting** and **sketching** in my leisure time.  
+Please head over to the [gallery](photo-gallery.html) to see some of my sketches. I completed my **5th year (Senior Diploma)** in Painting with *Distinction* and was part of the [Art Freaks](https://www.facebook.com/artfreaks.ism) Core Team at IIT-ISM.  
 
-I, also had a formal training on harmonium, and completed 3rd year with first division in vocal classical music. Although not an active vocalist, I love listening to music whenever free.
+In addition, I have formal training in **harmonium** and completed the **3rd year** in vocal classical music with *First Division*.  
+Although I’m not an active vocalist now, I still enjoy listening to music whenever I can.
+
 
 <!--Also, recently I have started writing blogs (both technical and fun) mostly describing the papers that I go through in energy domain. Please head over [here](), to read them. I being fairly new in writing blogs, any advice in how to improve writing would be really helpful and much appreciated.
 <!-- You can also find some of my articles on my [personal blog](year-archive.html) about the endeavours during my [bachelors'](../_posts/memories_at_iit_ism_dhanbad.md), where I briefly mention the ups and downs during the exciting four years of journey.  -->
