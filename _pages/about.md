@@ -8,22 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an M.S. - Ph.D. student in Operations Research, working with [Prof. Agostino Capponi](https://www.columbia.edu/~ac3827/) at Columbia University. 
+Hello! I am a Ph.D. student in Operations Research, working with the amazing [Prof. Agostino Capponi](https://www.columbia.edu/~ac3827/) at Columbia University. 
 
 Previously, I was a SCAI (Societal impact through Cloud and Artificial Intelligence) Research Fellow at Microsoft Research Lab India. I received my Bachelor's Degree in Electrical Engineering from Indian Institute of Technology, Dhanbad (IIT-ISM). 
 
 Please go over my [resume](../files/Millend_Resume.pdf) to know more about me.
 <br>
+
 # Interests 🔖
-My current research interests lie at the intersection of __Energy Systems__ and __Technology for Emerging Markets__ broadly in the areas of AI/ML in power systems, smart grid optimization and reinforcement learning.  
+My current research interests lie at the intersection of __Energy Systems__ and __Technology for Emerging Markets__, with a focus on AI/ML applications in power systems, smart grid optimization, and reinforcement learning for energy market design, resource adequacy, and demand-side management.
   
 ## Past Research Works 🔍
-At Microsoft Research (MSR), I work on Project [Vasudha](https://www.microsoft.com/en-us/research/project/vasudha/) under the guidance of [Dr. Akshay Nambi](https://www.microsoft.com/en-us/research/people/akshayn/), [Tanuja Ganu](https://www.microsoft.com/en-us/research/people/taganu/) 
-and [Dr. Shivkumar Kalyanaraman](http://www.shivkumar.org/). My research focuses on applying machine learning for optimization and control in distributed energy resources (DERs) of high-renewable power grids. Specifically, my work explores different Reinforcement Learning techniques, stochastic and traditional discrete optimization algorithms that solves the physics based constraints associated with power systems. Being a SCAI fellow, my vocation also encompasses on transitioning the research work to early-stage deployable solutions for partners of Microsoft, where I collaborate with [Dr. Shivkumar Kalyanaraman's](http://www.shivkumar.org/) team of Azure Energy and Mobility on the same. To know more about my works at MSR, please visit [here](https://www.microsoft.com/en-us/research/people/t-roymillend/).
- 
-My research in AI for Social Good until now has tackled various societal impact like [addressing range anxiety](../files/ReliableEnergyConsumptionModelingforanEVFleet.pdf) of electric vehicles' drivers, [enhancing maritime coastal security](../files/A_Deep_Learning_Framework_for_Enhancing_Maritime_Coastal_Securit.pdf), accurately scheduling batteries to [reduce carbon footprints](../_publications/encortex.md) of consumers, [benefitting energy providers](../files/RenewableEnergyandDemandForecastinginanIntegratedSmartGrid.pdf) by accurate scheduling of their renewable resources, [detecting fault location and type](../_publications/hosting-capacity.md) in active distribution networks. 
+At **Microsoft Research (MSR)**, I worked on [**Project Vasudha**](https://www.microsoft.com/en-us/research/project/vasudha/) under the guidance of [Dr. Akshay Nambi](https://www.microsoft.com/en-us/research/people/akshayn/), [Tanuja Ganu](https://www.microsoft.com/en-us/research/people/taganu/), and [Dr. Shivkumar Kalyanaraman](http://www.shivkumar.org/).  
+My research focused on applying **machine learning** for optimization and control of distributed energy resources (DERs) in high-renewable power grids. I explored **reinforcement learning**, **stochastic optimization**, and **discrete optimization** techniques to solve physics-driven constraints in power systems.  
 
-Please see [here](publications.md) for a list of my recent publications. 
+As a **SCAI Fellow**, I also worked on translating research prototypes into early-stage deployable solutions for Microsoft partners, collaborating closely with Dr. Kalyanaraman’s Azure Energy & Mobility team.  
+You can read more about my MSR work [here](https://www.microsoft.com/en-us/research/people/t-roymillend/).  
+
+My broader research in **AI for Social Good** has spanned projects tackling real-world societal challenges, including:  
+- [Addressing range anxiety](../files/ReliableEnergyConsumptionModelingforanEVFleet.pdf) for EV drivers  
+- [Enhancing maritime coastal security](../files/A_Deep_Learning_Framework_for_Enhancing_Maritime_Coastal_Securit.pdf) with deep learning  
+- [Scheduling batteries](../_publications/encortex.md) to reduce consumer carbon footprints  
+- [Optimizing renewable resource scheduling](../files/RenewableEnergyandDemandForecastinginanIntegratedSmartGrid.pdf) to benefit energy providers  
+- [Detecting fault location and type](../_publications/hosting-capacity.md) in active distribution networks  
+
+For a full list of my recent publications, click [here](publications.md).
 
 ## Outside of Research 🎨🏏🎶
 Outside of research, I enjoy playing **cricket**, **table tennis**, and **pool**.  
