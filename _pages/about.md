@@ -19,11 +19,9 @@ Please go over my [resume](../files/Millend_Resume.pdf) to know more about me.
 My current research interests lie at the intersection of __Energy Systems__ and __Technology for Emerging Markets__, with a focus on AI/ML applications in power systems, smart grid optimization, and reinforcement learning for energy market design, resource adequacy, and demand-side management.
   
 ## Past Research Works 🔍
-At **Microsoft Research (MSR)**, I worked on [**Project Vasudha**](https://www.microsoft.com/en-us/research/project/vasudha/) under the guidance of [Dr. Akshay Nambi](https://www.microsoft.com/en-us/research/people/akshayn/), [Tanuja Ganu](https://www.microsoft.com/en-us/research/people/taganu/), and [Dr. Shivkumar Kalyanaraman](http://www.shivkumar.org/).  
-My research focused on applying **machine learning** for optimization and control of distributed energy resources (DERs) in high-renewable power grids. I explored **reinforcement learning**, **stochastic optimization**, and **discrete optimization** techniques to solve physics-driven constraints in power systems.  
+At **Microsoft Research (MSR)**, I worked on [**Project Vasudha**](https://www.microsoft.com/en-us/research/project/vasudha/) under the guidance of [Dr. Akshay Nambi](https://www.microsoft.com/en-us/research/people/akshayn/), [Tanuja Ganu](https://www.microsoft.com/en-us/research/people/taganu/), and [Dr. Shivkumar Kalyanaraman](http://www.shivkumar.org/). My research focused on applying **machine learning** for optimization and control of distributed energy resources (DERs) in high-renewable power grids. I explored **reinforcement learning**, **stochastic optimization**, and **discrete optimization** techniques to solve physics-driven constraints in power systems.  
 
 As a **SCAI Fellow**, I also worked on translating research prototypes into early-stage deployable solutions for Microsoft partners, collaborating closely with Dr. Kalyanaraman’s Azure Energy & Mobility team.  
-You can read more about my MSR work [here](https://www.microsoft.com/en-us/research/people/t-roymillend/).  
 
 My broader research in **AI for Social Good** has spanned projects tackling real-world societal challenges, including:  
 - [Addressing range anxiety](../files/ReliableEnergyConsumptionModelingforanEVFleet.pdf) for EV drivers  
@@ -35,14 +33,11 @@ My broader research in **AI for Social Good** has spanned projects tackling real
 For a full list of my recent publications, click [here](publications.md).
 
 ## Outside of Research 🎨🏏🎶
-Outside of research, I enjoy playing **cricket**, **table tennis**, and **pool**.  
-Playing table tennis during the respite hours at the MSR office was a pure source of enjoyment and relaxation — a great way to recharge and return to work with fresh energy.  
+Outside of research, I enjoy playing **cricket**, **table tennis**, and **pool**. Playing table tennis during the respite hours at the MSR office was a pure source of enjoyment and relaxation — a great way to recharge and return to work with fresh energy.  
 
-I also love **painting** and **sketching** in my leisure time.  
-Please head over to the [gallery](photo-gallery.html) to see some of my sketches. I completed my **5th year (Senior Diploma)** in Painting with *Distinction* and was part of the [Art Freaks](https://www.facebook.com/artfreaks.ism) Core Team at IIT-ISM.  
+I also love **painting** and **sketching** in my leisure time. Please head over to the [gallery](photo-gallery.html) to see some of my sketches. I completed my **5th year (Senior Diploma)** in Painting with *Distinction* and was part of the [Art Freaks](https://www.facebook.com/artfreaks.ism) Core Team at IIT-ISM.  
 
-In addition, I have formal training in **harmonium** and completed the **3rd year** in vocal classical music with *First Division*.  
-Although I’m not an active vocalist now, I still enjoy listening to music whenever I can.
+In addition, I have formal training in **harmonium** and completed the **3rd year** in vocal classical music with *First Division*. Although I’m not an active vocalist now, I still enjoy listening to music whenever I can.
 
 
 <!--Also, recently I have started writing blogs (both technical and fun) mostly describing the papers that I go through in energy domain. Please head over [here](), to read them. I being fairly new in writing blogs, any advice in how to improve writing would be really helpful and much appreciated.
