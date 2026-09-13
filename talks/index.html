@@ -1,0 +1,399 @@
+<!DOCTYPE html> <html lang="en"> <head> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title> talks | Millend Roy </title> <meta name="author" content="Millend Roy"> <meta name="description" content="Invited talks, seminars, and conference presentations."> <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website"> <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https:; font-src 'self' data: https:; media-src 'self' https:; frame-src 'self' https:; connect-src 'self' https:;"> <style>
+  :root {
+    --max-content-width: 930px;
+  }
+</style> <link rel="stylesheet" href="/assets/css/tailwind.css?v=50c64c15cbb9fd1ce6056fdb8bcb4b62"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css" integrity="sha256-MVopmdyC2tYTiJ8wlktf0uh0v4NgT+vNdyVFepi7Q0c=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.5/css/academicons.min.css" integrity="sha256-SzrCOBJbGVFMahewkgjwnApaV2+av1DwMAA+/QGLyZw=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/scholar-icons@1.0.3/css/scholar-icons.css" integrity="sha256-VY3hHVj/hNX3fYG6wtbA6TcKJQl7+FthzGSyIB64klY=" crossorigin="anonymous"> <link defer rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&amp;display=swap"> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-github.css?v=591dab5a4e56573bf4ef7fd332894c99" media="" id="highlight_theme_light"> <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;"> <link rel="stylesheet" href="/assets/css/main.css?v=3116ba77db9ee1581d05bb3e86fbf7f1"> <link rel="canonical" href="https://millendroy.github.io/talks/"> </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> <span class="font-weight-bold">Millend</span> Roy </a> <button class="navbar-toggler collapsed navbar-toggler-main" type="button" data-nav-toggle="navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav"> <ul class="navbar-nav navbar-menu-list flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">about </a> </li> <li class="nav-item "> <a class="nav-link" href="/publications/">publications </a> </li> <li class="nav-item active"> <a class="nav-link" href="/talks/">talks <span class="sr-only">(current)</span> </a> </li> <li class="nav-item "> <a class="nav-link" href="/gallery/">art gallery </a> </li> <li class="nav-item"> <button id="search-toggle" type="button" title="Search" aria-label="Open search"> <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="post"> <header class="post-header"> <h1 class="post-title">talks</h1> <p class="post-description">Invited talks, seminars, and conference presentations.</p> </header> <article> <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"> <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script> <style>
+  #talk-map { height: 420px; border-radius: 8px; margin-bottom: 1.5rem; }
+  .talks-widget { position: relative; }
+  .talks-list { max-height: 480px; overflow-y: auto; padding-right: 4px; }
+  .talk-card {
+    padding: 0.9rem 1rem;
+    margin-bottom: 0.6rem;
+    border: 1px solid rgba(128,128,128,0.25);
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.2s, border-color 0.2s;
+    display: flex;
+    gap: 0.8rem;
+    align-items: flex-start;
+  }
+  .talk-photo {
+    width: 72px;
+    height: 72px;
+    object-fit: cover;
+    border-radius: 6px;
+    flex-shrink: 0;
+  }
+  .talk-card-text { flex: 1; min-width: 0; }
+  .talk-card:hover { background: rgba(128,128,128,0.08); }
+  .talk-card.active { border-color: #6c63ff; background: rgba(108,99,255,0.08); }
+  .talk-card h4 { margin: 0 0 0.2rem; font-size: 1rem; }
+  .talk-card p { margin: 0 0 0.2rem; font-size: 0.9rem; }
+  .talk-card a { font-size: 0.85rem; }
+  .talks-controls { margin-bottom: 0.8rem; display: flex; align-items: center; gap: 0.6rem; }
+  #talks-toggle {
+    padding: 0.35rem 0.9rem;
+    border-radius: 999px;
+    border: 1px solid rgba(128,128,128,0.4);
+    background: transparent;
+    cursor: pointer;
+    font-size: 0.85rem;
+  }
+</style> <div class="talks-widget"> <div id="talk-map"></div> <div class="talks-controls"> <button id="talks-toggle">⏸ Pause auto-tour</button> </div> <div class="talks-list" id="talks-list"> <div class="talk-card" data-index="0"> <img src="/assets/img/talks/kdd1.jpg" alt="ACM KDD 2026 Poster Session: AlphaSearch" class="talk-photo"> <div class="talk-card-text"> <h4>ACM KDD 2026 Poster Session: AlphaSearch</h4> <p><em>Conference proceedings talk</em></p> <p>International Convention Center Jeju (ICC Jeju), Jeju, South Korea — August 2026</p> <a href="/assets/pdf/talks/Alphasearch_v2ais471_Poster295_MillendRoy.pdf">slides</a> </div> </div> <div class="talk-card" data-index="1"> <img src="/assets/img/talks/gridtech.JPG" alt="Cross-Columbia GridTech Hackathon — 1st Place Winner" class="talk-photo"> <div class="talk-card-text"> <h4>Cross-Columbia GridTech Hackathon — 1st Place Winner</h4> <p><em>Hackathon presentation</em></p> <p>Studio at 175 Varick Street, New York, NY, USA — April 2026</p> <a href="/assets/pdf/talks/BorrowWatt.pdf">slides</a> </div> </div> <div class="talk-card" data-index="2"> <img src="/assets/img/talks/informs2025.jpg" alt="INFORMS Annual Meeting 2025: PG&amp;E analytics challenge 2nd place" class="talk-photo"> <div class="talk-card-text"> <h4>INFORMS Annual Meeting 2025: PG&amp;E analytics challenge 2nd place</h4> <p><em>Conference talk</em></p> <p>Georgia World Congress Center, Atlanta, GA, USA — October 2025</p> <a href="/assets/pdf/talks/INFORMS_Forecasting.pdf">slides</a> </div> </div> <div class="talk-card" data-index="3"> <img src="/assets/img/talks/eenergy.jpg" alt="ACM e-Energy Proceedings Poster Session at AI-Deeds Workshop" class="talk-photo"> <div class="talk-card-text"> <h4>ACM e-Energy Proceedings Poster Session at AI-Deeds Workshop</h4> <p><em>Conference proceedings poster</em></p> <p>Nhow Rotterdam Hotel, Rotterdam, Netherlands — June 2025</p> <a href="/assets/pdf/talks/Acm_enenergy_poster.pdf">slides</a> </div> </div> <div class="talk-card" data-index="4"> <img src="/assets/img/talks/futureenergy.jpg" alt="Future Energy Summit 2025" class="talk-photo"> <div class="talk-card-text"> <h4>Future Energy Summit 2025</h4> <p><em>Conference proceedings talk</em></p> <p>Boston Marriott Newton, Boston, MA, USA — February 2025</p> <a href="/assets/pdf/talks/Roy_Millend_Future_Energy_Summit.pdf">slides</a> </div> </div> <div class="talk-card" data-index="5"> <img src="/assets/img/talks/posterday.jpg" alt="Microsoft Research Fellows' Graduating Day: Poster Session" class="talk-photo"> <div class="talk-card-text"> <h4>Microsoft Research Fellows' Graduating Day: Poster Session</h4> <p><em>Poster</em></p> <p>Microsoft Research Lab India, Bangalore, India — June 2023</p> <a href="/assets/pdf/talks/Millend.pdf">slides</a> </div> </div> <div class="talk-card" data-index="6"> <div class="talk-card-text"> <h4>ACM COMPASS Proceedings Talk</h4> <p><em>Conference proceedings talk</em></p> <p>University of Washington, Seattle, WA, USA — June 2022</p> <a href="/assets/pdf/talks/Compass_ppt_23June.pdf">slides</a> </div> </div> <div class="talk-card" data-index="7"> <div class="talk-card-text"> <h4>Societal Impact through Cloud and AI technical talk on Project Vasudha</h4> <p><em>Tutorial</em></p> <p>Microsoft Research Lab India, Bangalore, India — April 2022</p> <a href="/assets/pdf/talks/SCAI_Vasudha.pdf">slides</a> </div> </div> <div class="talk-card" data-index="8"> <img src="/assets/img/talks/tabdemo.jpg" alt="TAB Demo on Project Vasudha" class="talk-photo"> <div class="talk-card-text"> <h4>TAB Demo on Project Vasudha</h4> <p><em>Demo presentation</em></p> <p>Microsoft Research Lab India, Bengaluru, India — February 2022</p> </div> </div> <div class="talk-card" data-index="9"> <img src="/assets/img/talks/temtalk.jpg" alt="Technology and Empowerment Talk on Smart Grid Utilities" class="talk-photo"> <div class="talk-card-text"> <h4>Technology and Empowerment Talk on Smart Grid Utilities</h4> <p><em>Presentation of paper readings and ideas</em></p> <p>Microsoft Research Lab India, Bengaluru, India — December 2021</p> <a href="/assets/pdf/talks/TEM_Reading_Discussion_on_Smart_Grid_Utilities.pdf">slides</a> </div> </div> <div class="talk-card" data-index="10"> <img src="/assets/img/talks/INCET.jpg" alt="INCET Conference Proceedings Talk" class="talk-photo"> <div class="talk-card-text"> <h4>INCET Conference Proceedings Talk</h4> <p><em>Conference proceedings talk</em></p> <p>Jain College of Engineering and Technology, Belagavi, India — May 2021</p> <a href="/assets/pdf/talks/INCET_21.pdf">slides</a> </div> </div> <div class="talk-card" data-index="11"> <div class="talk-card-text"> <h4>IEMRE Conference Proceedings Talk</h4> <p><em>Conference proceedings talk</em></p> <p>Institute of Engineering &amp; Management, Kolkata, India — February 2021</p> <a href="/assets/pdf/talks/IEMRE_21.pdf">slides</a> </div> </div> </div> </div> <script>
+(function () {
+  // Leaflet's default marker icons need explicit URLs when loaded via plain <script> tag
+  delete L.Icon.Default.prototype._getIconUrl;
+  L.Icon.Default.mergeOptions({
+    iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',
+    iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
+    shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+  });
+
+  const talksData = [
+    
+    {
+      title: "ACM KDD 2026 Poster Session: AlphaSearch",
+      event: "Conference proceedings talk",
+      venue: "International Convention Center Jeju (ICC Jeju)",
+      location: "Jeju, South Korea",
+      date: "2026-08-11",
+      lat: 33.409,
+      lng: 126.9184,
+      slides: "/assets/pdf/talks/Alphasearch_v2ais471_Poster295_MillendRoy.pdf",
+      photo: "/assets/img/talks/kdd1.jpg"
+    },
+    
+    {
+      title: "Cross-Columbia GridTech Hackathon — 1st Place Winner",
+      event: "Hackathon presentation",
+      venue: "Studio at 175 Varick Street",
+      location: "New York, NY, USA",
+      date: "2026-04-03",
+      lat: 40.7255,
+      lng: -74.0055,
+      slides: "/assets/pdf/talks/BorrowWatt.pdf",
+      photo: "/assets/img/talks/gridtech.JPG"
+    },
+    
+    {
+      title: "INFORMS Annual Meeting 2025: PG\u0026E analytics challenge 2nd place",
+      event: "Conference talk",
+      venue: "Georgia World Congress Center",
+      location: "Atlanta, GA, USA",
+      date: "2025-10-27",
+      lat: 33.7628,
+      lng: -84.3963,
+      slides: "/assets/pdf/talks/INFORMS_Forecasting.pdf",
+      photo: "/assets/img/talks/informs2025.jpg"
+    },
+    
+    {
+      title: "ACM e-Energy Proceedings Poster Session at AI-Deeds Workshop",
+      event: "Conference proceedings poster",
+      venue: "Nhow Rotterdam Hotel",
+      location: "Rotterdam, Netherlands",
+      date: "2025-06-17",
+      lat: 51.9244,
+      lng: 4.4777,
+      slides: "/assets/pdf/talks/Acm_enenergy_poster.pdf",
+      photo: "/assets/img/talks/eenergy.jpg"
+    },
+    
+    {
+      title: "Future Energy Summit 2025",
+      event: "Conference proceedings talk",
+      venue: "Boston Marriott Newton",
+      location: "Boston, MA, USA",
+      date: "2025-02-19",
+      lat: 42.3601,
+      lng: -71.0589,
+      slides: "/assets/pdf/talks/Roy_Millend_Future_Energy_Summit.pdf",
+      photo: "/assets/img/talks/futureenergy.jpg"
+    },
+    
+    {
+      title: "Microsoft Research Fellows' Graduating Day: Poster Session",
+      event: "Poster",
+      venue: "Microsoft Research Lab India",
+      location: "Bangalore, India",
+      date: "2023-06-16",
+      lat: 12.9716,
+      lng: 77.5946,
+      slides: "/assets/pdf/talks/Millend.pdf",
+      photo: "/assets/img/talks/posterday.jpg"
+    },
+    
+    {
+      title: "ACM COMPASS Proceedings Talk",
+      event: "Conference proceedings talk",
+      venue: "University of Washington",
+      location: "Seattle, WA, USA",
+      date: "2022-06-29",
+      lat: 47.6062,
+      lng: -122.3321,
+      slides: "/assets/pdf/talks/Compass_ppt_23June.pdf",
+      photo: null
+    },
+    
+    {
+      title: "Societal Impact through Cloud and AI technical talk on Project Vasudha",
+      event: "Tutorial",
+      venue: "Microsoft Research Lab India",
+      location: "Bangalore, India",
+      date: "2022-04-01",
+      lat: 12.9716,
+      lng: 77.5946,
+      slides: "/assets/pdf/talks/SCAI_Vasudha.pdf",
+      photo: null
+    },
+    
+    {
+      title: "TAB Demo on Project Vasudha",
+      event: "Demo presentation",
+      venue: "Microsoft Research Lab India",
+      location: "Bengaluru, India",
+      date: "2022-02-04",
+      lat: 12.9716,
+      lng: 77.5946,
+      slides: null,
+      photo: "/assets/img/talks/tabdemo.jpg"
+    },
+    
+    {
+      title: "Technology and Empowerment Talk on Smart Grid Utilities",
+      event: "Presentation of paper readings and ideas",
+      venue: "Microsoft Research Lab India",
+      location: "Bengaluru, India",
+      date: "2021-12-25",
+      lat: 12.9716,
+      lng: 77.5946,
+      slides: "/assets/pdf/talks/TEM_Reading_Discussion_on_Smart_Grid_Utilities.pdf",
+      photo: "/assets/img/talks/temtalk.jpg"
+    },
+    
+    {
+      title: "INCET Conference Proceedings Talk",
+      event: "Conference proceedings talk",
+      venue: "Jain College of Engineering and Technology",
+      location: "Belagavi, India",
+      date: "2021-05-21",
+      lat: 15.8497,
+      lng: 74.4977,
+      slides: "/assets/pdf/talks/INCET_21.pdf",
+      photo: "/assets/img/talks/INCET.jpg"
+    },
+    
+    {
+      title: "IEMRE Conference Proceedings Talk",
+      event: "Conference proceedings talk",
+      venue: "Institute of Engineering \u0026 Management",
+      location: "Kolkata, India",
+      date: "2021-02-06",
+      lat: 22.5726,
+      lng: 88.3639,
+      slides: "/assets/pdf/talks/IEMRE_21.pdf",
+      photo: null
+    }
+    
+  ];
+
+  const map = L.map('talk-map').setView([20, 10], 2);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors',
+    maxZoom: 18,
+  }).addTo(map);
+
+  const markers = talksData.map((t) => {
+    const m = L.marker([t.lat, t.lng]).addTo(map);
+    const popupPhoto = t.photo ? `<img src="${t.photo}" style="width:100%;max-height:160px;object-fit:cover;border-radius:4px;margin-top:6px;display:block;">` : '';
+    m.bindPopup(`<strong>${t.title}</strong><br>${t.venue}, ${t.location}${popupPhoto}`, { maxWidth: 220 });
+    return m;
+  });
+
+  if (talksData.length) {
+    const bounds = L.latLngBounds(talksData.map((t) => [t.lat, t.lng]));
+    map.fitBounds(bounds.pad(0.3));
+  }
+
+  const cards = Array.from(document.querySelectorAll('.talk-card'));
+  const listEl = document.getElementById('talks-list');
+  const widgetEl = document.querySelector('.talks-widget');
+  const toggleBtn = document.getElementById('talks-toggle');
+
+  let currentIndex = 0;
+  let playing = true;
+  let timer = null;
+
+  function focusTalk(index) {
+    currentIndex = index;
+    cards.forEach((c) => c.classList.remove('active'));
+    const card = cards[index];
+    if (card) {
+      card.classList.add('active');
+      card.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    }
+    const t = talksData[index];
+    const targetZoom = 6;
+    // Shift the map's center north of the marker in pixel space, so the marker
+    // (and its popup, which opens above it) lands in the lower half of the
+    // viewport instead of dead center — leaving room for tall popups.
+    const markerPoint = map.project([t.lat, t.lng], targetZoom);
+    const shiftedPoint = markerPoint.subtract([0, 130]);
+    const targetLatLng = map.unproject(shiftedPoint, targetZoom);
+    map.flyTo(targetLatLng, targetZoom, { duration: 1.2 });
+    markers[index].openPopup();
+  }
+
+  function tick() {
+    focusTalk((currentIndex + 1) % talksData.length);
+  }
+
+  function startAutoplay() {
+    stopAutoplay();
+    timer = setInterval(tick, 3500);
+  }
+  function stopAutoplay() {
+    if (timer) clearInterval(timer);
+    timer = null;
+  }
+
+  cards.forEach((card, i) => {
+    card.addEventListener('click', () => focusTalk(i));
+  });
+
+  toggleBtn.addEventListener('click', () => {
+    playing = !playing;
+    toggleBtn.textContent = playing ? '⏸ Pause auto-tour' : '▶ Resume auto-tour';
+    if (playing) startAutoplay();
+    else stopAutoplay();
+  });
+
+  widgetEl.addEventListener('mouseenter', stopAutoplay);
+  widgetEl.addEventListener('mouseleave', () => { if (playing) startAutoplay(); });
+
+  if (talksData.length) {
+    focusTalk(0);
+    startAutoplay();
+  }
+})();
+</script> </article> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Millend Roy. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>. </div> </footer> <script>
+  window.alFolio = {
+    compatBootstrap: false
+  };
+</script> <script src="/assets/js/nav-toggle.js?v=141bd79a73ebc0f0b6ea58e440ae79fc"></script> <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script> <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script> <script defer src="/assets/js/masonry.js?v=e49affc7bd2646f6acdad1dbe02c2359" type="text/javascript"></script> <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js" integrity="sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI=" crossorigin="anonymous"></script> <script src="/assets/al_math/js/mathjax-setup.js"></script> <script src="/assets/js/tooltips-setup.js?v=fe487e99db6c43751e6e7bdb2d6a0611"></script> <script src="/assets/js/no_defer.js?v=53b1b1a645525975c963ce8bf8bfefcf"></script> <script defer src="/assets/js/common.js?v=87baac90f765f2f3362dcf6aaf312a8a"></script> <script defer src="/assets/js/copy_code.js?v=c8a01c11a92744d44b093fc3bda915df" type="text/javascript"></script> <script defer src="/assets/js/jupyter_new_tab.js?v=896d254890d9b47f0281f63bfccf0dee"></script> <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script> <script async src="https://badge.dimensions.ai/badge.js"></script> <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js" integrity="sha256-ZgMyDAIYDYGxbcpJcfUnYwNevG/xi9OHKaR/8GK+jWc=" crossorigin="anonymous"></script> <script defer src="/assets/al_img_tools/js/zoom.js"></script> <script defer src="/assets/js/progress-bar.js?v=499464c5c63ced6cf7ad62509f1e2610" type="text/javascript"></script> <script src="https://cdn.jsdelivr.net/npm/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js" integrity="sha256-uMJJ3EoTyfRBoTbR+lrfu1uRQ87RZG8AR3cVNuQVeFg=" crossorigin="anonymous"></script> <script>
+    addBackToTop();
+  </script> <script type="module" src="/assets/al_search/js/search/ninja-keys.min.js"></script> <ninja-keys hidebreadcrumbs noautoloadmdicons placeholder="Type to start searching"></ninja-keys> <script src="/assets/al_search/js/search-setup.js"></script> <script>
+// get the ninja-keys element
+const ninja = document.querySelector('ninja-keys');
+
+// add the home and posts menu items
+ninja.data = [{
+    id: "nav-about",
+    title: "about",
+    section: "Navigation",
+    handler: () => {
+      window.location.href = "/";
+    },
+  },{id: "nav-publications",
+          title: "publications",
+          description: "publications by categories in reversed chronological order. generated by jekyll-scholar.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-talks",
+          title: "talks",
+          description: "Invited talks, seminars, and conference presentations.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
+        },{id: "nav-art-gallery",
+          title: "art gallery",
+          description: "A collection of sketches and paintings.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/gallery/";
+          },
+        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        
+          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+          
+        },
+      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
+        
+          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+          
+        },
+      },{id: "projects-sketch-title",
+          title: 'sketch title',
+          description: "pencil sketch, year",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_sketch/";
+            },},{id: "projects-1-wolverine",
+          title: '1_wolverine',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_wolverine/";
+            },},{id: "projects-painting-title",
+          title: 'painting title',
+          description: "medium, year",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_painting/";
+            },},{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/CV.pdf", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%6D%69%6C%6C%65%6E%64.%72%6F%79@%63%6F%6C%75%6D%62%69%61.%65%64%75", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=a3bKF84AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/MillendRoy", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/millend-roy", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/MillendRoy", "_blank");
+        },
+      },];
+
+</script> <script src="/assets/al_search/js/shortcut-key.js"></script> </body> </html>
