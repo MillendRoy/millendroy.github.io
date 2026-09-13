@@ -1,0 +1,116 @@
+- title: "ACM KDD 2026 Poster Session: AlphaSearch"
+  event: "Conference proceedings talk"
+  venue: "International Convention Center Jeju (ICC Jeju)"
+  location: "Jeju, South Korea"
+  date: "2026-08-11"
+  lat: 33.4090
+  lng: 126.9184
+  slides: /assets/pdf/talks/Alphasearch_v2ais471_Poster295_MillendRoy.pdf
+  photo: /assets/img/talks/kdd1.jpg
+
+- title: "Cross-Columbia GridTech Hackathon — 1st Place Winner"
+  event: "Hackathon presentation"
+  venue: "Studio at 175 Varick Street"
+  location: "New York, NY, USA"
+  date: "2026-04-03"
+  lat: 40.7255
+  lng: -74.0055
+  slides: /assets/pdf/talks/BorrowWatt.pdf
+  photo: /assets/img/talks/gridtech.JPG
+
+- title: "INFORMS Annual Meeting 2025: PG&E analytics challenge 2nd place"
+  event: "Conference talk"
+  venue: "Georgia World Congress Center"
+  location: "Atlanta, GA, USA"
+  date: "2025-10-27"
+  lat: 33.7628
+  lng: -84.3963
+  slides: /assets/pdf/talks/INFORMS_Forecasting.pdf
+  photo: /assets/img/talks/informs2025.jpg
+
+- title: "ACM e-Energy Proceedings Poster Session at AI-Deeds Workshop"
+  event: "Conference proceedings poster"
+  venue: "Nhow Rotterdam Hotel"
+  location: "Rotterdam, Netherlands"
+  date: "2025-06-17"
+  lat: 51.9244
+  lng: 4.4777
+  slides: /assets/pdf/talks/Acm_enenergy_poster.pdf
+  photo: /assets/img/talks/eenergy.jpg
+
+- title: "Future Energy Summit 2025"
+  event: "Conference proceedings talk"
+  venue: "Boston Marriott Newton"
+  location: "Boston, MA, USA"
+  date: "2025-02-19"
+  lat: 42.3601
+  lng: -71.0589
+  slides: /assets/pdf/talks/Roy_Millend_Future_Energy_Summit.pdf
+  photo: /assets/img/talks/futureenergy.jpg
+
+- title: "Microsoft Research Fellows' Graduating Day: Poster Session"
+  event: "Poster"
+  venue: "Microsoft Research Lab India"
+  location: "Bangalore, India"
+  date: "2023-06-16"
+  lat: 12.9716
+  lng: 77.5946
+  slides: /assets/pdf/talks/Millend.pdf
+  photo: /assets/img/talks/posterday.jpg
+
+- title: "ACM COMPASS Proceedings Talk"
+  event: "Conference proceedings talk"
+  venue: "University of Washington"
+  location: "Seattle, WA, USA"
+  date: "2022-06-29"
+  lat: 47.6062
+  lng: -122.3321
+  slides: /assets/pdf/talks/Compass_ppt_23June.pdf
+
+- title: "Societal Impact through Cloud and AI technical talk on Project Vasudha"
+  event: "Tutorial"
+  venue: "Microsoft Research Lab India"
+  location: "Bangalore, India"
+  date: "2022-04-01"
+  lat: 12.9716
+  lng: 77.5946
+  slides: /assets/pdf/talks/SCAI_Vasudha.pdf
+
+- title: "TAB Demo on Project Vasudha"
+  event: "Demo presentation"
+  venue: "Microsoft Research Lab India"
+  location: "Bengaluru, India"
+  date: "2022-02-04"
+  lat: 12.9716
+  lng: 77.5946
+  photo: /assets/img/talks/tabdemo.jpg
+  
+
+- title: "Technology and Empowerment Talk on Smart Grid Utilities"
+  event: "Presentation of paper readings and ideas"
+  venue: "Microsoft Research Lab India"
+  location: "Bengaluru, India"
+  date: "2021-12-25"
+  lat: 12.9716
+  lng: 77.5946
+  slides: /assets/pdf/talks/TEM_Reading_Discussion_on_Smart_Grid_Utilities.pdf
+  photo: /assets/img/talks/temtalk.jpg
+
+- title: "INCET Conference Proceedings Talk"
+  event: "Conference proceedings talk"
+  venue: "Jain College of Engineering and Technology"
+  location: "Belagavi, India"
+  date: "2021-05-21"
+  lat: 15.8497
+  lng: 74.4977
+  slides: /assets/pdf/talks/INCET_21.pdf
+  photo: /assets/img/talks/INCET.jpg
+
+- title: "IEMRE Conference Proceedings Talk"
+  event: "Conference proceedings talk"
+  venue: "Institute of Engineering & Management"
+  location: "Kolkata, India"
+  date: "2021-02-06"
+  lat: 22.5726
+  lng: 88.3639
+  slides: /assets/pdf/talks/IEMRE_21.pdf
