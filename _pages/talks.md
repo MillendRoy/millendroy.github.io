@@ -33,6 +33,7 @@ nav_order: 3
     flex-shrink: 0;
   }
   .talk-card-text { flex: 1; min-width: 0; }
+  .talk-links { margin-top: 0.3rem; }
   .talk-card:hover { background: rgba(128,128,128,0.08); }
   .talk-card.active { border-color: #6c63ff; background: rgba(108,99,255,0.08); }
   .talk-card h4 { margin: 0 0 0.2rem; font-size: 1rem; }
@@ -67,8 +68,22 @@ nav_order: 3
         <h4>{{ talk.title }}</h4>
         <p><em>{{ talk.event }}</em></p>
         <p>{{ talk.venue }}, {{ talk.location }} &mdash; {{ talk.date | date: "%B %Y" }}</p>
-        {% if talk.slides %}<a href="{{ talk.slides | relative_url }}">slides</a>{% endif %}
+        <p class="talk-links">
+          {% if talk.slides %}<a href="{{ talk.slides | relative_url }}">slides</a>{% endif %}
+          {% if talk.links %}
+            {% for link in talk.links %}
+              {% if talk.slides or forloop.first == false %} &middot; {% endif %}
+              <a href="{{ link.url }}" target="_blank" rel="external nofollow noopener">{{ link.label }}</a>
+            {% endfor %}
+          {% endif %}
+        </p>
       </div>
+      <!-- <div class="talk-card-text">
+        <h4>{{ talk.title }}</h4>
+        <p><em>{{ talk.event }}</em></p>
+        <p>{{ talk.venue }}, {{ talk.location }} &mdash; {{ talk.date | date: "%B %Y" }}</p>
+        {% if talk.slides %}<a href="{{ talk.slides | relative_url }}">slides</a>{% endif %}
+      </div> -->
     </div>
     {% endfor %}
   </div>

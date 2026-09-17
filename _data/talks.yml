@@ -7,6 +7,9 @@
   lng: 126.9184
   slides: /assets/pdf/talks/Alphasearch_v2ais471_Poster295_MillendRoy.pdf
   photo: /assets/img/talks/kdd1.jpg
+  links:
+    - label: Youtube Demo
+      url: https://youtu.be/E9l1bQvZI7o?si=LeF9qZjGDXTitUg9
 
 - title: "Cross-Columbia GridTech Hackathon — 1st Place Winner"
   event: "Hackathon presentation"
@@ -17,6 +20,11 @@
   lng: -74.0055
   slides: /assets/pdf/talks/BorrowWatt.pdf
   photo: /assets/img/talks/gridtech.JPG
+  links:
+    - label: Demo
+      url: https://borrow-watt.vercel.app/
+    - label: News
+      url: https://www.linkedin.com/posts/yirui-gui_just-finished-my-first-hackathon-and-won-ugcPost-7446198136689025024-Jedz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACpPuZABVRWpbJE6YxFZA53pPLFKfE_IhHg
 
 - title: "INFORMS Annual Meeting 2025: PG&E analytics challenge 2nd place"
   event: "Conference talk"
@@ -27,6 +35,11 @@
   lng: -84.3963
   slides: /assets/pdf/talks/INFORMS_Forecasting.pdf
   photo: /assets/img/talks/informs2025.jpg
+  links:
+    - label: Report
+      url: https://arxiv.org/pdf/2505.11390
+    - label: News
+      url: https://ieor.columbia.edu/news/columbia-team-achieves-second-place-pge-energy-analytics-challenge
 
 - title: "ACM e-Energy Proceedings Poster Session at AI-Deeds Workshop"
   event: "Conference proceedings poster"
