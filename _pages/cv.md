@@ -1,12 +1,13 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
-nav: false
+nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/CV.pdf # drop your CV PDF into assets/pdf/ with this filename, or use an external link
-cv_format: rendercv # options: rendercv, jsonresume
-description: Download my CV as a PDF, or see the summary below.
-toc:
-  sidebar: left
+redirect: /assets/pdf/CV.pdf
 ---
+
+<meta http-equiv="refresh" content="0; url={{ page.redirect | relative_url }}">
+<script>window.location.replace("{{ page.redirect | relative_url }}");</script>
+
+<p>Redirecting to my <a href="{{ page.redirect | relative_url }}">CV (PDF)</a>...</p>

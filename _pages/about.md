@@ -33,3 +33,41 @@ I received my Bachelor’s degree in Electrical Engineering from the Indian Inst
 Outside research, I enjoy playing cricket 🏏, table tennis 🏓, and pool 🎱. I also love sketching ✏️ - you can find some of my work in the [gallery](/gallery/). I have formal training in harmonium 🎶 and am now trying to learn the keyboard, with a little more practice this time! :)
 
 </div>
+
+<div class="org-logos">
+  {% for org in site.data.organizations %}
+    <a href="{{ org.url }}" target="_blank" rel="external nofollow noopener" title="{{ org.name }}">
+      <img src="{{ org.logo | relative_url }}" alt="{{ org.name }}">
+    </a>
+  {% endfor %}
+</div>
+
+<style>
+.org-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(128,128,128,0.2);
+}
+.org-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2.5rem;
+  margin: 2.5rem 0 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(128,128,128,0.2);
+}
+.org-logos img {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+}
+.org-logos img:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+</style>

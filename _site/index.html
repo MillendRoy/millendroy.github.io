@@ -219,6 +219,15 @@
             
           
             
+              
+                
+                <li class="nav-item ">
+                  <a class="nav-link" href="/cv/">CV
+                    
+                  </a>
+                </li>
+              
+            
           
             
           
@@ -308,6 +317,69 @@
   <p>Outside research, I enjoy playing cricket 🏏, table tennis 🏓, and pool 🎱. I also love sketching ✏️ - you can find some of my work in the <a href="/gallery/">gallery</a>. I have formal training in harmonium 🎶 and am now trying to learn the keyboard, with a little more practice this time! :)</p>
 
 </div>
+
+<div class="org-logos">
+  
+    <a href="https://www.columbia.edu/" target="_blank" rel="external nofollow noopener" title="Columbia University">
+      <img src="/assets/img/orgs/columbia.png" alt="Columbia University">
+    </a>
+  
+    <a href="https://www.microsoft.com/en-us/research/" target="_blank" rel="external nofollow noopener" title="Microsoft Research">
+      <img src="/assets/img/orgs/msr.png" alt="Microsoft Research">
+    </a>
+  
+    <a href="https://www.iitism.ac.in/" target="_blank" rel="external nofollow noopener" title="IIT (ISM) Dhanbad">
+      <img src="/assets/img/orgs/iit_ism_logo.png" alt="IIT (ISM) Dhanbad">
+    </a>
+  
+    <a href="https://www.bp.com/en/global/bp-supply-trading-and-shipping.html" target="_blank" rel="external nofollow noopener" title="BP Americas">
+      <img src="/assets/img/orgs/BP-logo.jpg" alt="BP Americas">
+    </a>
+  
+    <a href="https://scale.com/" target="_blank" rel="external nofollow noopener" title="Scale AI">
+      <img src="/assets/img/orgs/scaleai.png" alt="Scale AI">
+    </a>
+  
+    <a href="https://www.linkedin.com/company/hurrey/about/" target="_blank" rel="external nofollow noopener" title="Hurrey AI">
+      <img src="/assets/img/orgs/hurrey_logo.jpeg" alt="Hurrey AI">
+    </a>
+  
+    <a href="https://webjapps.ias.ac.in/fellowship2027/index.html" target="_blank" rel="external nofollow noopener" title="INSA Delhi">
+      <img src="/assets/img/orgs/INSA.jpeg" alt="INSA Delhi">
+    </a>
+  
+</div>
+
+<style>
+.org-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(128,128,128,0.2);
+}
+.org-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2.5rem;
+  margin: 2.5rem 0 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(128,128,128,0.2);
+}
+.org-logos img {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+}
+.org-logos img:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+</style>
+
 </div>
 
     <!-- News -->
@@ -762,6 +834,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/gallery/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         

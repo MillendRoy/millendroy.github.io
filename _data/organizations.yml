@@ -1,0 +1,27 @@
+- name: Columbia University
+  logo: assets/img/orgs/columbia.png
+  url: https://www.columbia.edu/
+- name: Microsoft Research
+  logo: assets/img/orgs/msr.png
+  url: https://www.microsoft.com/en-us/research/
+- name: IIT (ISM) Dhanbad
+  logo: assets/img/orgs/iit_ism_logo.png
+  url: https://www.iitism.ac.in/
+- name: BP Americas
+  logo: assets/img/orgs/BP-logo.jpg
+  url: https://www.bp.com/en/global/bp-supply-trading-and-shipping.html
+- name: Scale AI 
+  logo: assets/img/orgs/scaleai.png
+  url: https://scale.com/
+- name: Hurrey AI
+  logo: assets/img/orgs/hurrey_logo.jpeg
+  url: https://www.linkedin.com/company/hurrey/about/
+- name: INSA Delhi
+  logo: assets/img/orgs/INSA.jpeg
+  url: https://webjapps.ias.ac.in/fellowship2027/index.html
+# - name: Fiitjee, Durgapur
+#   logo: assets/img/orgs/fiitjee_logo.png
+#   url: https://www.fiitjeedurgapur.com/
+# - name: HSMS, Durgapur
+#   logo: assets/img/orgs/hsms_logo.jpg
+#   url: https://hemsheela.in/
