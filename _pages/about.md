@@ -13,7 +13,7 @@ profile:
   #   <p>Columbia University, New York, NY</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false
@@ -31,6 +31,8 @@ Previously, I was a SCAI (Societal impact through Cloud and Artificial Intellige
 I received my Bachelor’s degree in Electrical Engineering from the Indian Institute of Technology (ISM), Dhanbad, where I developed my foundation in power systems. I am especially grateful to [Dr. Soham Dutta](https://scholar.google.com/citations?user=rgdHa8EAAAAJ&hl=en) and [Dr. Bhukya Krishna Naik](https://www.linkedin.com/in/bhukya-krishna-naick-7971331a4/), with whom I worked on my early research projects and whose guidance motivated me to pursue graduate studies.
 
 Outside research, I enjoy playing cricket 🏏, table tennis 🏓, and pool 🎱. I also love sketching ✏️ - you can find some of my work in the [gallery](/gallery/). I have formal training in harmonium 🎶 and am now trying to learn the keyboard, with a little more practice this time! :)
+
+Feel free to shoot me an email at [millend.roy@columbia.edu](mailto:millend.roy@columbia.edu) if you want to chat about these topics or in general.
 
 </div>
 
