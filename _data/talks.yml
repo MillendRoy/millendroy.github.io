@@ -1,3 +1,13 @@
+- title: "INFORMS Annual Meeting 2026: AlphaSearch"
+  event: "Invited talk at Agentic AI and Financial Technology, Finance Cluster"
+  venue: "Moscone Center South "
+  location: "San Francisco, CA, USA"
+  date: "2026-11-02"
+  lat: 37.78387
+  lng: -122.40125
+  slides: /assets/pdf/talks/INFORMS_Alphasearch.pdf
+  photo: /assets/img/talks/informs2026.jpg
+
 - title: "ACM KDD 2026 Poster Session: AlphaSearch"
   event: "Conference proceedings talk"
   venue: "International Convention Center Jeju (ICC Jeju)"
